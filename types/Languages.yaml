@@ -1,0 +1,93 @@
+synonym:
+  entities:
+    cs-CZ:
+      synonyms:
+      - Czech
+      - cs-CZ
+      - Check
+    da-DK:
+      synonyms:
+      - da-DK
+      - Danish
+    de-DE:
+      synonyms:
+      - de-DE
+      - German
+      - Deutsche
+      - Deutsch
+    en-US:
+      synonyms:
+      - en-US
+      - English
+      - American English
+      - British English
+    es-ES:
+      synonyms:
+      - es-ES
+      - Spanish
+    fr-FR:
+      synonyms:
+      - fr-FR
+      - French
+    hi-IN:
+      synonyms:
+      - hi-IN
+      - Hindi
+    id-ID:
+      synonyms:
+      - id-ID
+      - Indonesian
+    it-IT:
+      synonyms:
+      - it-IT
+      - Italian
+    ja-JP:
+      synonyms:
+      - ja-JP
+      - Japanese
+    ko-KR:
+      synonyms:
+      - ko-KR
+      - Korean
+    nl-NL:
+      synonyms:
+      - nl-NL
+      - Dutch
+    no-NO:
+      synonyms:
+      - no-NO
+      - Norwegian
+    pl-PL:
+      synonyms:
+      - Polish
+      - pl-PL
+    pt-BR:
+      synonyms:
+      - pt-BR
+      - Portuguese
+    ru-RU:
+      synonyms:
+      - ru-RU
+      - Russian
+    sv-SE:
+      synonyms:
+      - sv-SE
+      - Swedish
+    th-TH:
+      synonyms:
+      - th-TH
+      - Thai
+    tr-TR:
+      synonyms:
+      - tr-TR
+      - Turkish
+    zh-HK:
+      synonyms:
+      - zh-HK
+      - Cantonese
+    zh-TW:
+      synonyms:
+      - zh-TW
+      - Chinese
+      - Traditional Chinese
+  matchType: EXACT_MATCH
