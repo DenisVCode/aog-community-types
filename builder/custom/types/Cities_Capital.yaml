@@ -1,0 +1,644 @@
+# Version 1
+# Original source: https://simplemaps.com/data/world-cities, parsed
+# Type source: https://github.com/DenisVCode/aog-community-types
+
+
+synonym: 
+  entities:
+    Tokyo|Japan:
+      synonyms:
+      - "Tokyo":
+    Mexico City|Mexico:
+      synonyms:
+      - "Mexico City":
+    Dhaka|Bangladesh:
+      synonyms:
+      - "Dhaka":
+    Buenos Aires|Argentina:
+      synonyms:
+      - "Buenos Aires":
+    Cairo|Egypt:
+      synonyms:
+      - "Cairo":
+    Beijing|China:
+      synonyms:
+      - "Beijing":
+    Manila|Philippines:
+      synonyms:
+      - "Manila":
+    Moscow|Russia:
+      synonyms:
+      - "Moscow":
+    Paris|France:
+      synonyms:
+      - "Paris":
+    Seoul|Korea, South:
+      synonyms:
+      - "Seoul":
+    Jakarta|Indonesia:
+      synonyms:
+      - "Jakarta":
+    London|United Kingdom:
+      synonyms:
+      - "London":
+    Lima|Peru:
+      synonyms:
+      - "Lima":
+    Tehran|Iran:
+      synonyms:
+      - "Tehran":
+    Kinshasa|Congo (Kinshasa):
+      synonyms:
+      - "Kinshasa":
+    Bogotá|Colombia:
+      synonyms:
+      - "Bogotá":
+    Taipei|Taiwan:
+      synonyms:
+      - "Taipei":
+    Bangkok|Thailand:
+      synonyms:
+      - "Bangkok":
+    Santiago|Chile:
+      synonyms:
+      - "Santiago":
+    Madrid|Spain:
+      synonyms:
+      - "Madrid":
+    Washington|United States:
+      synonyms:
+      - "Washington":
+    Singapore|Singapore:
+      synonyms:
+      - "Singapore":
+    Luanda|Angola:
+      synonyms:
+      - "Luanda":
+    Baghdad|Iraq:
+      synonyms:
+      - "Baghdad":
+    Khartoum|Sudan:
+      synonyms:
+      - "Khartoum":
+    Riyadh|Saudi Arabia:
+      synonyms:
+      - "Riyadh":
+    Hanoi|Vietnam:
+      synonyms:
+      - "Hanoi":
+    Rangoon|Burma:
+      synonyms:
+      - "Rangoon":
+    Abidjan|Côte D’Ivoire:
+      synonyms:
+      - "Abidjan":
+    Brasília|Brazil:
+      synonyms:
+      - "Brasília":
+    Ankara|Turkey:
+      synonyms:
+      - "Ankara":
+    Berlin|Germany:
+      synonyms:
+      - "Berlin":
+    Algiers|Algeria:
+      synonyms:
+      - "Algiers":
+    Rome|Italy:
+      synonyms:
+      - "Rome":
+    Pyongyang|Korea, North:
+      synonyms:
+      - "Pyongyang":
+    Kabul|Afghanistan:
+      synonyms:
+      - "Kabul":
+    Athens|Greece:
+      synonyms:
+      - "Athens":
+    Cape Town|South Africa:
+      synonyms:
+      - "Cape Town":
+    Addis Ababa|Ethiopia:
+      synonyms:
+      - "Addis Ababa":
+    Nairobi|Kenya:
+      synonyms:
+      - "Nairobi":
+    Caracas|Venezuela:
+      synonyms:
+      - "Caracas":
+    Dar es Salaam|Tanzania:
+      synonyms:
+      - "Dar es Salaam":
+    Lisbon|Portugal:
+      synonyms:
+      - "Lisbon":
+    Kyiv|Ukraine:
+      synonyms:
+      - "Kyiv":
+    Dakar|Senegal:
+      synonyms:
+      - "Dakar":
+    Damascus|Syria:
+      synonyms:
+      - "Damascus":
+    Tunis|Tunisia:
+      synonyms:
+      - "Tunis":
+    Vienna|Austria:
+      synonyms:
+      - "Vienna":
+    Tripoli|Libya:
+      synonyms:
+      - "Tripoli":
+    Tashkent|Uzbekistan:
+      synonyms:
+      - "Tashkent":
+    Havana|Cuba:
+      synonyms:
+      - "Havana":
+    Santo Domingo|Dominican Republic:
+      synonyms:
+      - "Santo Domingo":
+    Baku|Azerbaijan:
+      synonyms:
+      - "Baku":
+    Accra|Ghana:
+      synonyms:
+      - "Accra":
+    Kuwait City|Kuwait:
+      synonyms:
+      - "Kuwait City":
+    Sanaa|Yemen:
+      synonyms:
+      - "Sanaa":
+    Port-au-Prince|Haiti:
+      synonyms:
+      - "Port-au-Prince":
+    Bucharest|Romania:
+      synonyms:
+      - "Bucharest":
+    Asunción|Paraguay:
+      synonyms:
+      - "Asunción":
+    Beirut|Lebanon:
+      synonyms:
+      - "Beirut":
+    Minsk|Belarus:
+      synonyms:
+      - "Minsk":
+    Brussels|Belgium:
+      synonyms:
+      - "Brussels":
+    Warsaw|Poland:
+      synonyms:
+      - "Warsaw":
+    Rabat|Morocco:
+      synonyms:
+      - "Rabat":
+    Quito|Ecuador:
+      synonyms:
+      - "Quito":
+    Antananarivo|Madagascar:
+      synonyms:
+      - "Antananarivo":
+    Budapest|Hungary:
+      synonyms:
+      - "Budapest":
+    Yaoundé|Cameroon:
+      synonyms:
+      - "Yaoundé":
+    La Paz|Bolivia:
+      synonyms:
+      - "La Paz":
+    Abuja|Nigeria:
+      synonyms:
+      - "Abuja":
+    Harare|Zimbabwe:
+      synonyms:
+      - "Harare":
+    Montevideo|Uruguay:
+      synonyms:
+      - "Montevideo":
+    Bamako|Mali:
+      synonyms:
+      - "Bamako":
+    Conakry|Guinea:
+      synonyms:
+      - "Conakry":
+    Phnom Penh|Cambodia:
+      synonyms:
+      - "Phnom Penh":
+    Lomé|Togo:
+      synonyms:
+      - "Lomé":
+    Doha|Qatar:
+      synonyms:
+      - "Doha":
+    Kuala Lumpur|Malaysia:
+      synonyms:
+      - "Kuala Lumpur":
+    Maputo|Mozambique:
+      synonyms:
+      - "Maputo":
+    San Salvador|El Salvador:
+      synonyms:
+      - "San Salvador":
+    Kampala|Uganda:
+      synonyms:
+      - "Kampala":
+    The Hague|Netherlands:
+      synonyms:
+      - "The Hague":
+    Brazzaville|Congo (Brazzaville):
+      synonyms:
+      - "Brazzaville":
+    Pretoria|South Africa:
+      synonyms:
+      - "Pretoria":
+    Lusaka|Zambia:
+      synonyms:
+      - "Lusaka":
+    San José|Costa Rica:
+      synonyms:
+      - "San José":
+    Panama City|Panama:
+      synonyms:
+      - "Panama City":
+    Stockholm|Sweden:
+      synonyms:
+      - "Stockholm":
+    Sofia|Bulgaria:
+      synonyms:
+      - "Sofia":
+    Prague|Czechia:
+      synonyms:
+      - "Prague":
+    Ouagadougou|Burkina Faso:
+      synonyms:
+      - "Ouagadougou":
+    Ottawa|Canada:
+      synonyms:
+      - "Ottawa":
+    Helsinki|Finland:
+      synonyms:
+      - "Helsinki":
+    Yerevan|Armenia:
+      synonyms:
+      - "Yerevan":
+    Mogadishu|Somalia:
+      synonyms:
+      - "Mogadishu":
+    Tbilisi|Georgia:
+      synonyms:
+      - "Tbilisi":
+    Belgrade|Serbia:
+      synonyms:
+      - "Belgrade":
+    Dushanbe|Tajikistan:
+      synonyms:
+      - "Dushanbe":
+    Copenhagen|Denmark:
+      synonyms:
+      - "Copenhagen":
+    Amman|Jordan:
+      synonyms:
+      - "Amman":
+    Dublin|Ireland:
+      synonyms:
+      - "Dublin":
+    Monrovia|Liberia:
+      synonyms:
+      - "Monrovia":
+    Amsterdam|Netherlands:
+      synonyms:
+      - "Amsterdam":
+    Jerusalem|Israel:
+      synonyms:
+      - "Jerusalem":
+    Guatemala City|Guatemala:
+      synonyms:
+      - "Guatemala City":
+    N’Djamena|Chad:
+      synonyms:
+      - "N’Djamena":
+    Tegucigalpa|Honduras:
+      synonyms:
+      - "Tegucigalpa":
+    Kingston|Jamaica:
+      synonyms:
+      - "Kingston":
+    Nay Pyi Taw|Burma:
+      synonyms:
+      - "Nay Pyi Taw":
+    Djibouti|Djibouti:
+      synonyms:
+      - "Djibouti":
+    Managua|Nicaragua:
+      synonyms:
+      - "Managua":
+    Niamey|Niger:
+      synonyms:
+      - "Niamey":
+    Tirana|Albania:
+      synonyms:
+      - "Tirana":
+    Kathmandu|Nepal:
+      synonyms:
+      - "Kathmandu":
+    Ulaanbaatar|Mongolia:
+      synonyms:
+      - "Ulaanbaatar":
+    Kigali|Rwanda:
+      synonyms:
+      - "Kigali":
+    Bishkek|Kyrgyzstan:
+      synonyms:
+      - "Bishkek":
+    Oslo|Norway:
+      synonyms:
+      - "Oslo":
+    Bangui|Central African Republic:
+      synonyms:
+      - "Bangui":
+    Freetown|Sierra Leone:
+      synonyms:
+      - "Freetown":
+    Islamabad|Pakistan:
+      synonyms:
+      - "Islamabad":
+    Cotonou|Benin:
+      synonyms:
+      - "Cotonou":
+    Vientiane|Laos:
+      synonyms:
+      - "Vientiane":
+    Riga|Latvia:
+      synonyms:
+      - "Riga":
+    Nouakchott|Mauritania:
+      synonyms:
+      - "Nouakchott":
+    Muscat|Oman:
+      synonyms:
+      - "Muscat":
+    Ashgabat|Turkmenistan:
+      synonyms:
+      - "Ashgabat":
+    Zagreb|Croatia:
+      synonyms:
+      - "Zagreb":
+    Sarajevo|Bosnia And Herzegovina:
+      synonyms:
+      - "Sarajevo":
+    Chisinau|Moldova:
+      synonyms:
+      - "Chisinau":
+    Lilongwe|Malawi:
+      synonyms:
+      - "Lilongwe":
+    Asmara|Eritrea:
+      synonyms:
+      - "Asmara":
+    Abu Dhabi|United Arab Emirates:
+      synonyms:
+      - "Abu Dhabi":
+    Port Louis|Mauritius:
+      synonyms:
+      - "Port Louis":
+    Libreville|Gabon:
+      synonyms:
+      - "Libreville":
+    Manama|Bahrain:
+      synonyms:
+      - "Manama":
+    Vilnius|Lithuania:
+      synonyms:
+      - "Vilnius":
+    Skopje|Macedonia:
+      synonyms:
+      - "Skopje":
+    Bloemfontein|South Africa:
+      synonyms:
+      - "Bloemfontein":
+    Bratislava|Slovakia:
+      synonyms:
+      - "Bratislava":
+    Bissau|Guinea-Bissau:
+      synonyms:
+      - "Bissau":
+    Tallinn|Estonia:
+      synonyms:
+      - "Tallinn":
+    Wellington|New Zealand:
+      synonyms:
+      - "Wellington":
+    Valletta|Malta:
+      synonyms:
+      - "Valletta":
+    Maseru|Lesotho:
+      synonyms:
+      - "Maseru":
+    Nur-Sultan|Kazakhstan:
+      synonyms:
+      - "Nur-Sultan":
+    Bujumbura|Burundi:
+      synonyms:
+      - "Bujumbura":
+    Canberra|Australia:
+      synonyms:
+      - "Canberra":
+    New Delhi|India:
+      synonyms:
+      - "New Delhi":
+    Ljubljana|Slovenia:
+      synonyms:
+      - "Ljubljana":
+    Porto-Novo|Benin:
+      synonyms:
+      - "Porto-Novo":
+    Bandar Seri Begawan|Brunei:
+      synonyms:
+      - "Bandar Seri Begawan":
+    Port of Spain|Trinidad And Tobago:
+      synonyms:
+      - "Port of Spain":
+    Port Moresby|Papua New Guinea:
+      synonyms:
+      - "Port Moresby":
+    Bern|Switzerland:
+      synonyms:
+      - "Bern":
+    Windhoek|Namibia:
+      synonyms:
+      - "Windhoek":
+    Georgetown|Guyana:
+      synonyms:
+      - "Georgetown":
+    Paramaribo|Suriname:
+      synonyms:
+      - "Paramaribo":
+    Dili|Timor-Leste:
+      synonyms:
+      - "Dili":
+    Nassau|Bahamas, The:
+      synonyms:
+      - "Nassau":
+    Sucre|Bolivia:
+      synonyms:
+      - "Sucre":
+    Nicosia|Cyprus:
+      synonyms:
+      - "Nicosia":
+    Dodoma|Tanzania:
+      synonyms:
+      - "Dodoma":
+    Colombo|Sri Lanka:
+      synonyms:
+      - "Colombo":
+    Gaborone|Botswana:
+      synonyms:
+      - "Gaborone":
+    Yamoussoukro|Côte D’Ivoire:
+      synonyms:
+      - "Yamoussoukro":
+    Bridgetown|Barbados:
+      synonyms:
+      - "Bridgetown":
+    Suva|Fiji:
+      synonyms:
+      - "Suva":
+    Reykjavík|Iceland:
+      synonyms:
+      - "Reykjavík":
+    Malabo|Equatorial Guinea:
+      synonyms:
+      - "Malabo":
+    Willemstad|Curaçao:
+      synonyms:
+      - "Willemstad":
+    Podgorica|Montenegro:
+      synonyms:
+      - "Podgorica":
+    Moroni|Comoros:
+      synonyms:
+      - "Moroni":
+    Sri Jayewardenepura Kotte|Sri Lanka:
+      synonyms:
+      - "Sri Jayewardenepura Kotte":
+    Praia|Cabo Verde:
+      synonyms:
+      - "Praia":
+    Male|Maldives:
+      synonyms:
+      - "Male":
+    Juba|South Sudan:
+      synonyms:
+      - "Juba":
+    Luxembourg|Luxembourg:
+      synonyms:
+      - "Luxembourg":
+    Thimphu|Bhutan:
+      synonyms:
+      - "Thimphu":
+    Mbabane|Swaziland:
+      synonyms:
+      - "Mbabane":
+    São Tomé|Sao Tome And Principe:
+      synonyms:
+      - "São Tomé":
+    Honiara|Solomon Islands:
+      synonyms:
+      - "Honiara":
+    Oranjestad|Aruba:
+      synonyms:
+      - "Oranjestad":
+    Apia|Samoa:
+      synonyms:
+      - "Apia":
+    Andorra la Vella|Andorra:
+      synonyms:
+      - "Andorra la Vella":
+    Kingstown|Saint Vincent And The Grenadines:
+      synonyms:
+      - "Kingstown":
+    Port-Vila|Vanuatu:
+      synonyms:
+      - "Port-Vila":
+    Banjul|Gambia, The:
+      synonyms:
+      - "Banjul":
+    Nuku‘alofa|Tonga:
+      synonyms:
+      - "Nuku‘alofa":
+    Castries|Saint Lucia:
+      synonyms:
+      - "Castries":
+    Monaco|Monaco:
+      synonyms:
+      - "Monaco":
+    Vaduz|Liechtenstein:
+      synonyms:
+      - "Vaduz":
+    Saint John’s|Antigua And Barbuda:
+      synonyms:
+      - "Saint John’s":
+    Saint George’s|Grenada:
+      synonyms:
+      - "Saint George’s":
+    Victoria|Seychelles:
+      synonyms:
+      - "Victoria":
+    San Marino|San Marino:
+      synonyms:
+      - "San Marino":
+    Tarawa|Kiribati:
+      synonyms:
+      - "Tarawa":
+    Majuro|Marshall Islands:
+      synonyms:
+      - "Majuro":
+    Roseau|Dominica:
+      synonyms:
+      - "Roseau":
+    Basseterre|Saint Kitts And Nevis:
+      synonyms:
+      - "Basseterre":
+    Belmopan|Belize:
+      synonyms:
+      - "Belmopan":
+    Pago Pago|American Samoa:
+      synonyms:
+      - "Pago Pago":
+    Lobamba|Swaziland:
+      synonyms:
+      - "Lobamba":
+    Funafuti|Tuvalu:
+      synonyms:
+      - "Funafuti":
+    Palikir|Micronesia, Federated States Of:
+      synonyms:
+      - "Palikir":
+    Capitol Hill|Northern Mariana Islands:
+      synonyms:
+      - "Capitol Hill":
+    Hagåtña|Guam:
+      synonyms:
+      - "Hagåtña":
+    Al Quds|West Bank:
+      synonyms:
+      - "Al Quds":
+    Philipsburg|Sint Maarten:
+      synonyms:
+      - "Philipsburg":
+    Gitega|Burundi:
+      synonyms:
+      - "Gitega":
+    Pristina|Kosovo:
+      synonyms:
+      - "Pristina":
+    Ngerulmud|Palau:
+      synonyms:
+      - "Ngerulmud":
+matchType: EXACT_MATCH

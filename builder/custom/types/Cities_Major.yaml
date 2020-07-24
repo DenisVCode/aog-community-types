@@ -1,0 +1,2966 @@
+# Version 1
+# Original source: https://simplemaps.com/data/world-cities, parsed
+# Type source: https://github.com/DenisVCode/aog-community-types
+# Major definition: population > 500 000
+
+synonym: 
+  entities:
+    Tokyo|Japan:
+      synonyms:
+      - "Tokyo":
+    New York|United States:
+      synonyms:
+      - "New York":
+    Mexico City|Mexico:
+      synonyms:
+      - "Mexico City":
+    Mumbai|India:
+      synonyms:
+      - "Mumbai":
+    São Paulo|Brazil:
+      synonyms:
+      - "São Paulo":
+    Delhi|India:
+      synonyms:
+      - "Delhi":
+    Shanghai|China:
+      synonyms:
+      - "Shanghai":
+    Kolkata|India:
+      synonyms:
+      - "Kolkata":
+    Los Angeles|United States:
+      synonyms:
+      - "Los Angeles":
+    Dhaka|Bangladesh:
+      synonyms:
+      - "Dhaka":
+    Buenos Aires|Argentina:
+      synonyms:
+      - "Buenos Aires":
+    Karachi|Pakistan:
+      synonyms:
+      - "Karachi":
+    Cairo|Egypt:
+      synonyms:
+      - "Cairo":
+    Rio de Janeiro|Brazil:
+      synonyms:
+      - "Rio de Janeiro":
+    Ōsaka|Japan:
+      synonyms:
+      - "Ōsaka":
+    Beijing|China:
+      synonyms:
+      - "Beijing":
+    Manila|Philippines:
+      synonyms:
+      - "Manila":
+    Moscow|Russia:
+      synonyms:
+      - "Moscow":
+    Istanbul|Turkey:
+      synonyms:
+      - "Istanbul":
+    Paris|France:
+      synonyms:
+      - "Paris":
+    Seoul|Korea, South:
+      synonyms:
+      - "Seoul":
+    Lagos|Nigeria:
+      synonyms:
+      - "Lagos":
+    Jakarta|Indonesia:
+      synonyms:
+      - "Jakarta":
+    Guangzhou|China:
+      synonyms:
+      - "Guangzhou":
+    Chicago|United States:
+      synonyms:
+      - "Chicago":
+    London|United Kingdom:
+      synonyms:
+      - "London":
+    Lima|Peru:
+      synonyms:
+      - "Lima":
+    Tehran|Iran:
+      synonyms:
+      - "Tehran":
+    Kinshasa|Congo (Kinshasa):
+      synonyms:
+      - "Kinshasa":
+    Bogotá|Colombia:
+      synonyms:
+      - "Bogotá":
+    Shenzhen|China:
+      synonyms:
+      - "Shenzhen":
+    Wuhan|China:
+      synonyms:
+      - "Wuhan":
+    Hong Kong|Hong Kong:
+      synonyms:
+      - "Hong Kong":
+    Tianjin|China:
+      synonyms:
+      - "Tianjin":
+    Chennai|India:
+      synonyms:
+      - "Chennai":
+    Taipei|Taiwan:
+      synonyms:
+      - "Taipei":
+    Bengalūru|India:
+      synonyms:
+      - "Bengalūru":
+    Bangkok|Thailand:
+      synonyms:
+      - "Bangkok":
+    Lahore|Pakistan:
+      synonyms:
+      - "Lahore":
+    Chongqing|China:
+      synonyms:
+      - "Chongqing":
+    Miami|United States:
+      synonyms:
+      - "Miami":
+    Hyderabad|India:
+      synonyms:
+      - "Hyderabad":
+    Dallas|United States:
+      synonyms:
+      - "Dallas":
+    Santiago|Chile:
+      synonyms:
+      - "Santiago":
+    Philadelphia|United States:
+      synonyms:
+      - "Philadelphia":
+    Belo Horizonte|Brazil:
+      synonyms:
+      - "Belo Horizonte":
+    Madrid|Spain:
+      synonyms:
+      - "Madrid":
+    Houston|United States:
+      synonyms:
+      - "Houston":
+    Ahmadābād|India:
+      synonyms:
+      - "Ahmadābād":
+    Ho Chi Minh City|Vietnam:
+      synonyms:
+      - "Ho Chi Minh City":
+    Washington|United States:
+      synonyms:
+      - "Washington":
+    Atlanta|United States:
+      synonyms:
+      - "Atlanta":
+    Toronto|Canada:
+      synonyms:
+      - "Toronto":
+    Singapore|Singapore:
+      synonyms:
+      - "Singapore":
+    Luanda|Angola:
+      synonyms:
+      - "Luanda":
+    Baghdad|Iraq:
+      synonyms:
+      - "Baghdad":
+    Barcelona|Spain:
+      synonyms:
+      - "Barcelona":
+    Hāora|India:
+      synonyms:
+      - "Hāora":
+    Shenyang|China:
+      synonyms:
+      - "Shenyang":
+    Khartoum|Sudan:
+      synonyms:
+      - "Khartoum":
+    Pune|India:
+      synonyms:
+      - "Pune":
+    Boston|United States:
+      synonyms:
+      - "Boston":
+    Sydney|Australia:
+      synonyms:
+      - "Sydney":
+    Saint Petersburg|Russia:
+      synonyms:
+      - "Saint Petersburg":
+    Chittagong|Bangladesh:
+      synonyms:
+      - "Chittagong":
+    Dongguan|China:
+      synonyms:
+      - "Dongguan":
+    Riyadh|Saudi Arabia:
+      synonyms:
+      - "Riyadh":
+    Hanoi|Vietnam:
+      synonyms:
+      - "Hanoi":
+    Guadalajara|Mexico:
+      synonyms:
+      - "Guadalajara":
+    Melbourne|Australia:
+      synonyms:
+      - "Melbourne":
+    Alexandria|Egypt:
+      synonyms:
+      - "Alexandria":
+    Chengdu|China:
+      synonyms:
+      - "Chengdu":
+    Rangoon|Burma:
+      synonyms:
+      - "Rangoon":
+    Phoenix|United States:
+      synonyms:
+      - "Phoenix":
+    Xi’an|China:
+      synonyms:
+      - "Xi’an":
+    Porto Alegre|Brazil:
+      synonyms:
+      - "Porto Alegre":
+    Sūrat|India:
+      synonyms:
+      - "Sūrat":
+    Hechi|China:
+      synonyms:
+      - "Hechi":
+    Abidjan|Côte D’Ivoire:
+      synonyms:
+      - "Abidjan":
+    Brasília|Brazil:
+      synonyms:
+      - "Brasília":
+    Ankara|Turkey:
+      synonyms:
+      - "Ankara":
+    Monterrey|Mexico:
+      synonyms:
+      - "Monterrey":
+    Yokohama|Japan:
+      synonyms:
+      - "Yokohama":
+    Nanjing|China:
+      synonyms:
+      - "Nanjing":
+    Montréal|Canada:
+      synonyms:
+      - "Montréal":
+    Guiyang|China:
+      synonyms:
+      - "Guiyang":
+    Recife|Brazil:
+      synonyms:
+      - "Recife":
+    Seattle|United States:
+      synonyms:
+      - "Seattle":
+    Harbin|China:
+      synonyms:
+      - "Harbin":
+    San Francisco|United States:
+      synonyms:
+      - "San Francisco":
+    Fortaleza|Brazil:
+      synonyms:
+      - "Fortaleza":
+    Zhangzhou|China:
+      synonyms:
+      - "Zhangzhou":
+    Detroit|United States:
+      synonyms:
+      - "Detroit":
+    Salvador|Brazil:
+      synonyms:
+      - "Salvador":
+    Busan|Korea, South:
+      synonyms:
+      - "Busan":
+    Johannesburg|South Africa:
+      synonyms:
+      - "Johannesburg":
+    Berlin|Germany:
+      synonyms:
+      - "Berlin":
+    Algiers|Algeria:
+      synonyms:
+      - "Algiers":
+    Rome|Italy:
+      synonyms:
+      - "Rome":
+    Pyongyang|Korea, North:
+      synonyms:
+      - "Pyongyang":
+    Medellín|Colombia:
+      synonyms:
+      - "Medellín":
+    Kabul|Afghanistan:
+      synonyms:
+      - "Kabul":
+    Athens|Greece:
+      synonyms:
+      - "Athens":
+    Nagoya|Japan:
+      synonyms:
+      - "Nagoya":
+    Cape Town|South Africa:
+      synonyms:
+      - "Cape Town":
+    San Diego|United States:
+      synonyms:
+      - "San Diego":
+    Changchun|China:
+      synonyms:
+      - "Changchun":
+    Casablanca|Morocco:
+      synonyms:
+      - "Casablanca":
+    Dalian|China:
+      synonyms:
+      - "Dalian":
+    Cawnpore|India:
+      synonyms:
+      - "Cawnpore":
+    Kano|Nigeria:
+      synonyms:
+      - "Kano":
+    Tel Aviv-Yafo|Israel:
+      synonyms:
+      - "Tel Aviv-Yafo":
+    Addis Ababa|Ethiopia:
+      synonyms:
+      - "Addis Ababa":
+    Curitiba|Brazil:
+      synonyms:
+      - "Curitiba":
+    Zibo|China:
+      synonyms:
+      - "Zibo":
+    Jeddah|Saudi Arabia:
+      synonyms:
+      - "Jeddah":
+    Nairobi|Kenya:
+      synonyms:
+      - "Nairobi":
+    Hangzhou|China:
+      synonyms:
+      - "Hangzhou":
+    Benoni|South Africa:
+      synonyms:
+      - "Benoni":
+    Caracas|Venezuela:
+      synonyms:
+      - "Caracas":
+    Milan|Italy:
+      synonyms:
+      - "Milan":
+    Stuttgart|Germany:
+      synonyms:
+      - "Stuttgart":
+    Kunming|China:
+      synonyms:
+      - "Kunming":
+    Dar es Salaam|Tanzania:
+      synonyms:
+      - "Dar es Salaam":
+    Minneapolis|United States:
+      synonyms:
+      - "Minneapolis":
+    Jaipur|India:
+      synonyms:
+      - "Jaipur":
+    Taiyuan|China:
+      synonyms:
+      - "Taiyuan":
+    Frankfurt|Germany:
+      synonyms:
+      - "Frankfurt":
+    Qingdao|China:
+      synonyms:
+      - "Qingdao":
+    Surabaya|Indonesia:
+      synonyms:
+      - "Surabaya":
+    Lisbon|Portugal:
+      synonyms:
+      - "Lisbon":
+    Tampa|United States:
+      synonyms:
+      - "Tampa":
+    Jinan|China:
+      synonyms:
+      - "Jinan":
+    Fukuoka|Japan:
+      synonyms:
+      - "Fukuoka":
+    Campinas|Brazil:
+      synonyms:
+      - "Campinas":
+    Denver|United States:
+      synonyms:
+      - "Denver":
+    Kaohsiung|Taiwan:
+      synonyms:
+      - "Kaohsiung":
+    Quezon City|Philippines:
+      synonyms:
+      - "Quezon City":
+    Katowice|Poland:
+      synonyms:
+      - "Katowice":
+    Aleppo|Syria:
+      synonyms:
+      - "Aleppo":
+    Durban|South Africa:
+      synonyms:
+      - "Durban":
+    Kyiv|Ukraine:
+      synonyms:
+      - "Kyiv":
+    Lucknow|India:
+      synonyms:
+      - "Lucknow":
+    Giza|Egypt:
+      synonyms:
+      - "Giza":
+    Zhengzhou|China:
+      synonyms:
+      - "Zhengzhou":
+    Taichung|Taiwan:
+      synonyms:
+      - "Taichung":
+    Brooklyn|United States:
+      synonyms:
+      - "Brooklyn":
+    Ibadan|Nigeria:
+      synonyms:
+      - "Ibadan":
+    Faisalabad|Pakistan:
+      synonyms:
+      - "Faisalabad":
+    Fuzhou|China:
+      synonyms:
+      - "Fuzhou":
+    Changsha|China:
+      synonyms:
+      - "Changsha":
+    Dakar|Senegal:
+      synonyms:
+      - "Dakar":
+    İzmir|Turkey:
+      synonyms:
+      - "İzmir":
+    Xiangtan|China:
+      synonyms:
+      - "Xiangtan":
+    Lanzhou|China:
+      synonyms:
+      - "Lanzhou":
+    Incheon|Korea, South:
+      synonyms:
+      - "Incheon":
+    Sapporo|Japan:
+      synonyms:
+      - "Sapporo":
+    Xiamen|China:
+      synonyms:
+      - "Xiamen":
+    Guayaquil|Ecuador:
+      synonyms:
+      - "Guayaquil":
+    George Town|Malaysia:
+      synonyms:
+      - "George Town":
+    Mashhad|Iran:
+      synonyms:
+      - "Mashhad":
+    Damascus|Syria:
+      synonyms:
+      - "Damascus":
+    Daegu|Korea, South:
+      synonyms:
+      - "Daegu":
+    Nāgpur|India:
+      synonyms:
+      - "Nāgpur":
+    Lianshan|China:
+      synonyms:
+      - "Lianshan":
+    Shijiazhuang|China:
+      synonyms:
+      - "Shijiazhuang":
+    Tunis|Tunisia:
+      synonyms:
+      - "Tunis":
+    Vienna|Austria:
+      synonyms:
+      - "Vienna":
+    Jilin|China:
+      synonyms:
+      - "Jilin":
+    Omdurman|Sudan:
+      synonyms:
+      - "Omdurman":
+    Bandung|Indonesia:
+      synonyms:
+      - "Bandung":
+    Bekasi|Indonesia:
+      synonyms:
+      - "Bekasi":
+    Mannheim|Germany:
+      synonyms:
+      - "Mannheim":
+    Nanchang|China:
+      synonyms:
+      - "Nanchang":
+    Wenzhou|China:
+      synonyms:
+      - "Wenzhou":
+    Queens|United States:
+      synonyms:
+      - "Queens":
+    Vancouver|Canada:
+      synonyms:
+      - "Vancouver":
+    Birmingham|United Kingdom:
+      synonyms:
+      - "Birmingham":
+    Cali|Colombia:
+      synonyms:
+      - "Cali":
+    Naples|Italy:
+      synonyms:
+      - "Naples":
+    Sendai|Japan:
+      synonyms:
+      - "Sendai":
+    Manchester|United Kingdom:
+      synonyms:
+      - "Manchester":
+    Puebla|Mexico:
+      synonyms:
+      - "Puebla":
+    Tripoli|Libya:
+      synonyms:
+      - "Tripoli":
+    Tashkent|Uzbekistan:
+      synonyms:
+      - "Tashkent":
+    Havana|Cuba:
+      synonyms:
+      - "Havana":
+    Gaoping|China:
+      synonyms:
+      - "Gaoping":
+    Baltimore|United States:
+      synonyms:
+      - "Baltimore":
+    Nanning|China:
+      synonyms:
+      - "Nanning":
+    Belém|Brazil:
+      synonyms:
+      - "Belém":
+    Patna|India:
+      synonyms:
+      - "Patna":
+    Santo Domingo|Dominican Republic:
+      synonyms:
+      - "Santo Domingo":
+    Ürümqi|China:
+      synonyms:
+      - "Ürümqi":
+    Zaozhuang|China:
+      synonyms:
+      - "Zaozhuang":
+    Baku|Azerbaijan:
+      synonyms:
+      - "Baku":
+    Accra|Ghana:
+      synonyms:
+      - "Accra":
+    Yantai|China:
+      synonyms:
+      - "Yantai":
+    Medan|Indonesia:
+      synonyms:
+      - "Medan":
+    Santa Cruz|Bolivia:
+      synonyms:
+      - "Santa Cruz":
+    Tongshan|China:
+      synonyms:
+      - "Tongshan":
+    Riverside|United States:
+      synonyms:
+      - "Riverside":
+    Linyi|China:
+      synonyms:
+      - "Linyi":
+    St. Louis|United States:
+      synonyms:
+      - "St. Louis":
+    Las Vegas|United States:
+      synonyms:
+      - "Las Vegas":
+    Maracaibo|Venezuela:
+      synonyms:
+      - "Maracaibo":
+    Kuwait City|Kuwait:
+      synonyms:
+      - "Kuwait City":
+    Ad Dammām|Saudi Arabia:
+      synonyms:
+      - "Ad Dammām":
+    Portland|United States:
+      synonyms:
+      - "Portland":
+    Haikou|China:
+      synonyms:
+      - "Haikou":
+    Hiroshima|Japan:
+      synonyms:
+      - "Hiroshima":
+    Baotou|China:
+      synonyms:
+      - "Baotou":
+    Hefei|China:
+      synonyms:
+      - "Hefei":
+    Indore|India:
+      synonyms:
+      - "Indore":
+    Goiânia|Brazil:
+      synonyms:
+      - "Goiânia":
+    Sanaa|Yemen:
+      synonyms:
+      - "Sanaa":
+    San Antonio|United States:
+      synonyms:
+      - "San Antonio":
+    Port-au-Prince|Haiti:
+      synonyms:
+      - "Port-au-Prince":
+    Haiphong|Vietnam:
+      synonyms:
+      - "Haiphong":
+    Suzhou|China:
+      synonyms:
+      - "Suzhou":
+    Nanyang|China:
+      synonyms:
+      - "Nanyang":
+    Bucharest|Romania:
+      synonyms:
+      - "Bucharest":
+    Ningbo|China:
+      synonyms:
+      - "Ningbo":
+    Douala|Cameroon:
+      synonyms:
+      - "Douala":
+    Tangshan|China:
+      synonyms:
+      - "Tangshan":
+    Tainan|Taiwan:
+      synonyms:
+      - "Tainan":
+    Xiping|China:
+      synonyms:
+      - "Xiping":
+    Asunción|Paraguay:
+      synonyms:
+      - "Asunción":
+    Saidu Sharif|Pakistan:
+      synonyms:
+      - "Saidu Sharif":
+    Brisbane|Australia:
+      synonyms:
+      - "Brisbane":
+    Rawalpindi|Pakistan:
+      synonyms:
+      - "Rawalpindi":
+    Sacramento|United States:
+      synonyms:
+      - "Sacramento":
+    Beirut|Lebanon:
+      synonyms:
+      - "Beirut":
+    San Jose|United States:
+      synonyms:
+      - "San Jose":
+    Minsk|Belarus:
+      synonyms:
+      - "Minsk":
+    Kyōto|Japan:
+      synonyms:
+      - "Kyōto":
+    Barranquilla|Colombia:
+      synonyms:
+      - "Barranquilla":
+    Orlando|United States:
+      synonyms:
+      - "Orlando":
+    Shuyangzha|China:
+      synonyms:
+      - "Shuyangzha":
+    Valencia|Venezuela:
+      synonyms:
+      - "Valencia":
+    Hamburg|Germany:
+      synonyms:
+      - "Hamburg":
+    Vadodara|India:
+      synonyms:
+      - "Vadodara":
+    Manaus|Brazil:
+      synonyms:
+      - "Manaus":
+    Shangqiu|China:
+      synonyms:
+      - "Shangqiu":
+    Wuxi|China:
+      synonyms:
+      - "Wuxi":
+    Palembang|Indonesia:
+      synonyms:
+      - "Palembang":
+    Brussels|Belgium:
+      synonyms:
+      - "Brussels":
+    Essen|Germany:
+      synonyms:
+      - "Essen":
+    Cleveland|United States:
+      synonyms:
+      - "Cleveland":
+    Bhopal|India:
+      synonyms:
+      - "Bhopal":
+    Hohhot|China:
+      synonyms:
+      - "Hohhot":
+    Pittsburgh|United States:
+      synonyms:
+      - "Pittsburgh":
+    Luoyang|China:
+      synonyms:
+      - "Luoyang":
+    Santos|Brazil:
+      synonyms:
+      - "Santos":
+    Jingling|China:
+      synonyms:
+      - "Jingling":
+    Warsaw|Poland:
+      synonyms:
+      - "Warsaw":
+    Rabat|Morocco:
+      synonyms:
+      - "Rabat":
+    Vitória|Brazil:
+      synonyms:
+      - "Vitória":
+    Quito|Ecuador:
+      synonyms:
+      - "Quito":
+    Antananarivo|Madagascar:
+      synonyms:
+      - "Antananarivo":
+    Coimbatore|India:
+      synonyms:
+      - "Coimbatore":
+    Daqing|China:
+      synonyms:
+      - "Daqing":
+    Lu’an|China:
+      synonyms:
+      - "Lu’an":
+    Sanzhou|China:
+      synonyms:
+      - "Sanzhou":
+    Budapest|Hungary:
+      synonyms:
+      - "Budapest":
+    Turin|Italy:
+      synonyms:
+      - "Turin":
+    Suzhou|China:
+      synonyms:
+      - "Suzhou":
+    Ludhiāna|India:
+      synonyms:
+      - "Ludhiāna":
+    Cincinnati|United States:
+      synonyms:
+      - "Cincinnati":
+    Kumasi|Ghana:
+      synonyms:
+      - "Kumasi":
+    Manhattan|United States:
+      synonyms:
+      - "Manhattan":
+    Qiqihar|China:
+      synonyms:
+      - "Qiqihar":
+    Anshan|China:
+      synonyms:
+      - "Anshan":
+    Austin|United States:
+      synonyms:
+      - "Austin":
+    Zhongli|Taiwan:
+      synonyms:
+      - "Zhongli":
+    Handan|China:
+      synonyms:
+      - "Handan":
+    Tai’an|China:
+      synonyms:
+      - "Tai’an":
+    Eşfahān|Iran:
+      synonyms:
+      - "Eşfahān":
+    Kansas City|United States:
+      synonyms:
+      - "Kansas City":
+    Yaoundé|Cameroon:
+      synonyms:
+      - "Yaoundé":
+    Shantou|China:
+      synonyms:
+      - "Shantou":
+    Āgra|India:
+      synonyms:
+      - "Āgra":
+    Zhanjiang|China:
+      synonyms:
+      - "Zhanjiang":
+    La Paz|Bolivia:
+      synonyms:
+      - "La Paz":
+    Kalyān|India:
+      synonyms:
+      - "Kalyān":
+    Abuja|Nigeria:
+      synonyms:
+      - "Abuja":
+    Harare|Zimbabwe:
+      synonyms:
+      - "Harare":
+    Indianapolis|United States:
+      synonyms:
+      - "Indianapolis":
+    Xiantao|China:
+      synonyms:
+      - "Xiantao":
+    Khulna|Bangladesh:
+      synonyms:
+      - "Khulna":
+    Weifang|China:
+      synonyms:
+      - "Weifang":
+    Tijuana|Mexico:
+      synonyms:
+      - "Tijuana":
+    Santiago|Dominican Republic:
+      synonyms:
+      - "Santiago":
+    Xinyang|China:
+      synonyms:
+      - "Xinyang":
+    Luzhou|China:
+      synonyms:
+      - "Luzhou":
+    Perth|Australia:
+      synonyms:
+      - "Perth":
+    Toluca|Mexico:
+      synonyms:
+      - "Toluca":
+    Vishākhapatnam|India:
+      synonyms:
+      - "Vishākhapatnam":
+    Leeds|United Kingdom:
+      synonyms:
+      - "Leeds":
+    Kōbe|Japan:
+      synonyms:
+      - "Kōbe":
+    Columbus|United States:
+      synonyms:
+      - "Columbus":
+    Multan|Pakistan:
+      synonyms:
+      - "Multan":
+    Kochi|India:
+      synonyms:
+      - "Kochi":
+    Montevideo|Uruguay:
+      synonyms:
+      - "Montevideo":
+    Gujranwala|Pakistan:
+      synonyms:
+      - "Gujranwala":
+    Niterói|Brazil:
+      synonyms:
+      - "Niterói":
+    Ganzhou|China:
+      synonyms:
+      - "Ganzhou":
+    Florence|Italy:
+      synonyms:
+      - "Florence":
+    Liuzhou|China:
+      synonyms:
+      - "Liuzhou":
+    Bamako|Mali:
+      synonyms:
+      - "Bamako":
+    Conakry|Guinea:
+      synonyms:
+      - "Conakry":
+    Bursa|Turkey:
+      synonyms:
+      - "Bursa":
+    León de los Aldama|Mexico:
+      synonyms:
+      - "León de los Aldama":
+    Virginia Beach|United States:
+      synonyms:
+      - "Virginia Beach":
+    Nāsik|India:
+      synonyms:
+      - "Nāsik":
+    Fushun|China:
+      synonyms:
+      - "Fushun":
+    Changde|China:
+      synonyms:
+      - "Changde":
+    Daejeon|Korea, South:
+      synonyms:
+      - "Daejeon":
+    Charlotte|United States:
+      synonyms:
+      - "Charlotte":
+    Phnom Penh|Cambodia:
+      synonyms:
+      - "Phnom Penh":
+    Neijiang|China:
+      synonyms:
+      - "Neijiang":
+    Quanzhou|China:
+      synonyms:
+      - "Quanzhou":
+    Kharkiv|Ukraine:
+      synonyms:
+      - "Kharkiv":
+    Hyderabad City|Pakistan:
+      synonyms:
+      - "Hyderabad City":
+    Bronx|United States:
+      synonyms:
+      - "Bronx":
+    Lomé|Togo:
+      synonyms:
+      - "Lomé":
+    Córdoba|Argentina:
+      synonyms:
+      - "Córdoba":
+    Huainan|China:
+      synonyms:
+      - "Huainan":
+    Doha|Qatar:
+      synonyms:
+      - "Doha":
+    Kuala Lumpur|Malaysia:
+      synonyms:
+      - "Kuala Lumpur":
+    Maputo|Mozambique:
+      synonyms:
+      - "Maputo":
+    Kaduna|Nigeria:
+      synonyms:
+      - "Kaduna":
+    Gwangju|Korea, South:
+      synonyms:
+      - "Gwangju":
+    Kawanakajima|Japan:
+      synonyms:
+      - "Kawanakajima":
+    San Salvador|El Salvador:
+      synonyms:
+      - "San Salvador":
+    Suining|China:
+      synonyms:
+      - "Suining":
+    Lyon|France:
+      synonyms:
+      - "Lyon":
+    Karaj|Iran:
+      synonyms:
+      - "Karaj":
+    Kampala|Uganda:
+      synonyms:
+      - "Kampala":
+    Tabrīz|Iran:
+      synonyms:
+      - "Tabrīz":
+    The Hague|Netherlands:
+      synonyms:
+      - "The Hague":
+    Davao|Philippines:
+      synonyms:
+      - "Davao":
+    Marseille|France:
+      synonyms:
+      - "Marseille":
+    Meerut|India:
+      synonyms:
+      - "Meerut":
+    Mianyang|China:
+      synonyms:
+      - "Mianyang":
+    Semarang|Indonesia:
+      synonyms:
+      - "Semarang":
+    Farīdābād|India:
+      synonyms:
+      - "Farīdābād":
+    Novosibirsk|Russia:
+      synonyms:
+      - "Novosibirsk":
+    Mecca|Saudi Arabia:
+      synonyms:
+      - "Mecca":
+    Dubai|United Arab Emirates:
+      synonyms:
+      - "Dubai":
+    Milwaukee|United States:
+      synonyms:
+      - "Milwaukee":
+    Auckland|New Zealand:
+      synonyms:
+      - "Auckland":
+    Ma’anshan|China:
+      synonyms:
+      - "Ma’anshan":
+    Brazzaville|Congo (Brazzaville):
+      synonyms:
+      - "Brazzaville":
+    Yiyang|China:
+      synonyms:
+      - "Yiyang":
+    Vārānasi|India:
+      synonyms:
+      - "Vārānasi":
+    Lubumbashi|Congo (Kinshasa):
+      synonyms:
+      - "Lubumbashi":
+    Juárez|Mexico:
+      synonyms:
+      - "Juárez":
+    Ghāziābād|India:
+      synonyms:
+      - "Ghāziābād":
+    Pretoria|South Africa:
+      synonyms:
+      - "Pretoria":
+    Heze|China:
+      synonyms:
+      - "Heze":
+    Porto|Portugal:
+      synonyms:
+      - "Porto":
+    Āsansol|India:
+      synonyms:
+      - "Āsansol":
+    Lusaka|Zambia:
+      synonyms:
+      - "Lusaka":
+    Changzhou|China:
+      synonyms:
+      - "Changzhou":
+    Mosul|Iraq:
+      synonyms:
+      - "Mosul":
+    Yekaterinburg|Russia:
+      synonyms:
+      - "Yekaterinburg":
+    Peshawar|Pakistan:
+      synonyms:
+      - "Peshawar":
+    Mandalay|Burma:
+      synonyms:
+      - "Mandalay":
+    Jamshedpur|India:
+      synonyms:
+      - "Jamshedpur":
+    Mbuji-Mayi|Congo (Kinshasa):
+      synonyms:
+      - "Mbuji-Mayi":
+    Madura|India:
+      synonyms:
+      - "Madura":
+    Adana|Turkey:
+      synonyms:
+      - "Adana":
+    Sheffield|United Kingdom:
+      synonyms:
+      - "Sheffield":
+    Jabalpur|India:
+      synonyms:
+      - "Jabalpur":
+    San José|Costa Rica:
+      synonyms:
+      - "San José":
+    Panama City|Panama:
+      synonyms:
+      - "Panama City":
+    Nizhniy Novgorod|Russia:
+      synonyms:
+      - "Nizhniy Novgorod":
+    Chifeng|China:
+      synonyms:
+      - "Chifeng":
+    Duisburg|Germany:
+      synonyms:
+      - "Duisburg":
+    Munich|Germany:
+      synonyms:
+      - "Munich":
+    Huaiyin|China:
+      synonyms:
+      - "Huaiyin":
+    Stockholm|Sweden:
+      synonyms:
+      - "Stockholm":
+    Makassar|Indonesia:
+      synonyms:
+      - "Makassar":
+    Rājkot|India:
+      synonyms:
+      - "Rājkot":
+    Dhanbād|India:
+      synonyms:
+      - "Dhanbād":
+    Mudanjiang|China:
+      synonyms:
+      - "Mudanjiang":
+    Geneva|Switzerland:
+      synonyms:
+      - "Geneva":
+    Shīrāz|Iran:
+      synonyms:
+      - "Shīrāz":
+    Huzhou|China:
+      synonyms:
+      - "Huzhou":
+    Beidao|China:
+      synonyms:
+      - "Beidao":
+    Shuangshui|China:
+      synonyms:
+      - "Shuangshui":
+    Düsseldorf|Germany:
+      synonyms:
+      - "Düsseldorf":
+    Gaozhou|China:
+      synonyms:
+      - "Gaozhou":
+    Sevilla|Spain:
+      synonyms:
+      - "Sevilla":
+    Amritsar|India:
+      synonyms:
+      - "Amritsar":
+    Vila Velha|Brazil:
+      synonyms:
+      - "Vila Velha":
+    Vila Velha|Brazil:
+      synonyms:
+      - "Vila Velha":
+    Almaty|Kazakhstan:
+      synonyms:
+      - "Almaty":
+    Providence|United States:
+      synonyms:
+      - "Providence":
+    Warangal|India:
+      synonyms:
+      - "Warangal":
+    Rosario|Argentina:
+      synonyms:
+      - "Rosario":
+    Allahābād|India:
+      synonyms:
+      - "Allahābād":
+    Benin City|Nigeria:
+      synonyms:
+      - "Benin City":
+    Jining|China:
+      synonyms:
+      - "Jining":
+    Maceió|Brazil:
+      synonyms:
+      - "Maceió":
+    Sofia|Bulgaria:
+      synonyms:
+      - "Sofia":
+    Abbottabad|Pakistan:
+      synonyms:
+      - "Abbottabad":
+    Benghazi|Libya:
+      synonyms:
+      - "Benghazi":
+    Cilacap|Indonesia:
+      synonyms:
+      - "Cilacap":
+    Prague|Czechia:
+      synonyms:
+      - "Prague":
+    Glasgow|United Kingdom:
+      synonyms:
+      - "Glasgow":
+    Leshan|China:
+      synonyms:
+      - "Leshan":
+    Jacksonville|United States:
+      synonyms:
+      - "Jacksonville":
+    Ouagadougou|Burkina Faso:
+      synonyms:
+      - "Ouagadougou":
+    Ottawa|Canada:
+      synonyms:
+      - "Ottawa":
+    Adelaide|Australia:
+      synonyms:
+      - "Adelaide":
+    Shangrao|China:
+      synonyms:
+      - "Shangrao":
+    Torreón|Mexico:
+      synonyms:
+      - "Torreón":
+    Srīnagar|India:
+      synonyms:
+      - "Srīnagar":
+    Bezwāda|India:
+      synonyms:
+      - "Bezwāda":
+    Samara|Russia:
+      synonyms:
+      - "Samara":
+    Omsk|Russia:
+      synonyms:
+      - "Omsk":
+    Newcastle|Australia:
+      synonyms:
+      - "Newcastle":
+    Yulin|China:
+      synonyms:
+      - "Yulin":
+    Namp’o|Korea, North:
+      synonyms:
+      - "Namp’o":
+    Xianyang|China:
+      synonyms:
+      - "Xianyang":
+    Cagayan de Oro|Philippines:
+      synonyms:
+      - "Cagayan de Oro":
+    Cần Thơ|Vietnam:
+      synonyms:
+      - "Cần Thơ":
+    Barquisimeto|Venezuela:
+      synonyms:
+      - "Barquisimeto":
+    Helsinki|Finland:
+      synonyms:
+      - "Helsinki":
+    Kazan’|Russia:
+      synonyms:
+      - "Kazan’":
+    Aurangābād|India:
+      synonyms:
+      - "Aurangābād":
+    Calgary|Canada:
+      synonyms:
+      - "Calgary":
+    Ciudad Nezahualcóyotl|Mexico:
+      synonyms:
+      - "Ciudad Nezahualcóyotl":
+    Zürich|Switzerland:
+      synonyms:
+      - "Zürich":
+    Baoding|China:
+      synonyms:
+      - "Baoding":
+    Zigong|China:
+      synonyms:
+      - "Zigong":
+    Sharjah|United Arab Emirates:
+      synonyms:
+      - "Sharjah":
+    Yerevan|Armenia:
+      synonyms:
+      - "Yerevan":
+    Mogadishu|Somalia:
+      synonyms:
+      - "Mogadishu":
+    Tbilisi|Georgia:
+      synonyms:
+      - "Tbilisi":
+    Ankang|China:
+      synonyms:
+      - "Ankang":
+    Huambo|Angola:
+      synonyms:
+      - "Huambo":
+    Ikare|Nigeria:
+      synonyms:
+      - "Ikare":
+    Belgrade|Serbia:
+      synonyms:
+      - "Belgrade":
+    Salt Lake City|United States:
+      synonyms:
+      - "Salt Lake City":
+    Bhilai|India:
+      synonyms:
+      - "Bhilai":
+    Jinhua|China:
+      synonyms:
+      - "Jinhua":
+    Chelyabinsk|Russia:
+      synonyms:
+      - "Chelyabinsk":
+    Natal|Brazil:
+      synonyms:
+      - "Natal":
+    Dushanbe|Tajikistan:
+      synonyms:
+      - "Dushanbe":
+    Copenhagen|Denmark:
+      synonyms:
+      - "Copenhagen":
+    Changwon|Korea, South:
+      synonyms:
+      - "Changwon":
+    Zhuzhou|China:
+      synonyms:
+      - "Zhuzhou":
+    Suwon|Korea, South:
+      synonyms:
+      - "Suwon":
+    Nashville|United States:
+      synonyms:
+      - "Nashville":
+    Vereeniging|South Africa:
+      synonyms:
+      - "Vereeniging":
+    Xiangyang|China:
+      synonyms:
+      - "Xiangyang":
+    Memphis|United States:
+      synonyms:
+      - "Memphis":
+    Ulsan|Korea, South:
+      synonyms:
+      - "Ulsan":
+    Amman|Jordan:
+      synonyms:
+      - "Amman":
+    Mizhou|China:
+      synonyms:
+      - "Mizhou":
+    Richmond|United States:
+      synonyms:
+      - "Richmond":
+    Dublin|Ireland:
+      synonyms:
+      - "Dublin":
+    Edmonton|Canada:
+      synonyms:
+      - "Edmonton":
+    Solāpur|India:
+      synonyms:
+      - "Solāpur":
+    Rostov-na-Donu|Russia:
+      synonyms:
+      - "Rostov-na-Donu":
+    Dnipro|Ukraine:
+      synonyms:
+      - "Dnipro":
+    Xining|China:
+      synonyms:
+      - "Xining":
+    Zhangjiakou|China:
+      synonyms:
+      - "Zhangjiakou":
+    Lille|France:
+      synonyms:
+      - "Lille":
+    Ranchi|India:
+      synonyms:
+      - "Ranchi":
+    Gaziantep|Turkey:
+      synonyms:
+      - "Gaziantep":
+    Monrovia|Liberia:
+      synonyms:
+      - "Monrovia":
+    São Luís|Brazil:
+      synonyms:
+      - "São Luís":
+    Amsterdam|Netherlands:
+      synonyms:
+      - "Amsterdam":
+    Jerusalem|Israel:
+      synonyms:
+      - "Jerusalem":
+    New Orleans|United States:
+      synonyms:
+      - "New Orleans":
+    Guatemala City|Guatemala:
+      synonyms:
+      - "Guatemala City":
+    Zhuhai|China:
+      synonyms:
+      - "Zhuhai":
+    Florianópolis|Brazil:
+      synonyms:
+      - "Florianópolis":
+    Port Elizabeth|South Africa:
+      synonyms:
+      - "Port Elizabeth":
+    Jiamusi|China:
+      synonyms:
+      - "Jiamusi":
+    Port Harcourt|Nigeria:
+      synonyms:
+      - "Port Harcourt":
+    Raleigh|United States:
+      synonyms:
+      - "Raleigh":
+    Ufa|Russia:
+      synonyms:
+      - "Ufa":
+    Hengyang|China:
+      synonyms:
+      - "Hengyang":
+    Benxi|China:
+      synonyms:
+      - "Benxi":
+    Louisville|United States:
+      synonyms:
+      - "Louisville":
+    Haifa|Israel:
+      synonyms:
+      - "Haifa":
+    Medina|Saudi Arabia:
+      synonyms:
+      - "Medina":
+    Bucaramanga|Colombia:
+      synonyms:
+      - "Bucaramanga":
+    Maracay|Venezuela:
+      synonyms:
+      - "Maracay":
+    Rotterdam|Netherlands:
+      synonyms:
+      - "Rotterdam":
+    Homs|Syria:
+      synonyms:
+      - "Homs":
+    Cologne|Germany:
+      synonyms:
+      - "Cologne":
+    Qinhuangdao|China:
+      synonyms:
+      - "Qinhuangdao":
+    Fès|Morocco:
+      synonyms:
+      - "Fès":
+    Aden|Yemen:
+      synonyms:
+      - "Aden":
+    Cochabamba|Bolivia:
+      synonyms:
+      - "Cochabamba":
+    Yongzhou|China:
+      synonyms:
+      - "Yongzhou":
+    Baoshan|China:
+      synonyms:
+      - "Baoshan":
+    Quảng Hà|Vietnam:
+      synonyms:
+      - "Quảng Hà":
+    Kitaku|Japan:
+      synonyms:
+      - "Kitaku":
+    Perm’|Russia:
+      synonyms:
+      - "Perm’":
+    Ahvāz|Iran:
+      synonyms:
+      - "Ahvāz":
+    Jodhpur|India:
+      synonyms:
+      - "Jodhpur":
+    San Luis Potosí|Mexico:
+      synonyms:
+      - "San Luis Potosí":
+    Odesa|Ukraine:
+      synonyms:
+      - "Odesa":
+    Yinchuan|China:
+      synonyms:
+      - "Yinchuan":
+    N’Djamena|Chad:
+      synonyms:
+      - "N’Djamena":
+    Jiaxing|China:
+      synonyms:
+      - "Jiaxing":
+    Joinvile|Brazil:
+      synonyms:
+      - "Joinvile":
+    Donets’k|Ukraine:
+      synonyms:
+      - "Donets’k":
+    Guilin|China:
+      synonyms:
+      - "Guilin":
+    Dahūk|Iraq:
+      synonyms:
+      - "Dahūk":
+    Volgograd|Russia:
+      synonyms:
+      - "Volgograd":
+    Guwāhāti|India:
+      synonyms:
+      - "Guwāhāti":
+    Yichun|China:
+      synonyms:
+      - "Yichun":
+    Yangquan|China:
+      synonyms:
+      - "Yangquan":
+    Natal|Brazil:
+      synonyms:
+      - "Natal":
+    Chandigarh|India:
+      synonyms:
+      - "Chandigarh":
+    Gwalior|India:
+      synonyms:
+      - "Gwalior":
+    Hamamatsu|Japan:
+      synonyms:
+      - "Hamamatsu":
+    Qom|Iran:
+      synonyms:
+      - "Qom":
+    Jixi|China:
+      synonyms:
+      - "Jixi":
+    Mérida|Mexico:
+      synonyms:
+      - "Mérida":
+    Xin’an|China:
+      synonyms:
+      - "Xin’an":
+    Querétaro|Mexico:
+      synonyms:
+      - "Querétaro":
+    Pingxiang|China:
+      synonyms:
+      - "Pingxiang":
+    João Pessoa|Brazil:
+      synonyms:
+      - "João Pessoa":
+    Klang|Malaysia:
+      synonyms:
+      - "Klang":
+    Jinzhou|China:
+      synonyms:
+      - "Jinzhou":
+    Oklahoma City|United States:
+      synonyms:
+      - "Oklahoma City":
+    Salerno|Italy:
+      synonyms:
+      - "Salerno":
+    Thiruvananthapuram|India:
+      synonyms:
+      - "Thiruvananthapuram":
+    Calicut|India:
+      synonyms:
+      - "Calicut":
+    Trichinopoly|India:
+      synonyms:
+      - "Trichinopoly":
+    Ogbomoso|Nigeria:
+      synonyms:
+      - "Ogbomoso":
+    General Santos|Philippines:
+      synonyms:
+      - "General Santos":
+    Huế|Vietnam:
+      synonyms:
+      - "Huế":
+    Bacolod|Philippines:
+      synonyms:
+      - "Bacolod":
+    Nantong|China:
+      synonyms:
+      - "Nantong":
+    Tegucigalpa|Honduras:
+      synonyms:
+      - "Tegucigalpa":
+    Foshan|China:
+      synonyms:
+      - "Foshan":
+    Sŏngnam|Korea, South:
+      synonyms:
+      - "Sŏngnam":
+    Bridgeport|United States:
+      synonyms:
+      - "Bridgeport":
+    Kingston|Jamaica:
+      synonyms:
+      - "Kingston":
+    Nay Pyi Taw|Burma:
+      synonyms:
+      - "Nay Pyi Taw":
+    Nice|France:
+      synonyms:
+      - "Nice":
+    Buffalo|United States:
+      synonyms:
+      - "Buffalo":
+    Erbil|Iraq:
+      synonyms:
+      - "Erbil":
+    Krasnoyarsk|Russia:
+      synonyms:
+      - "Krasnoyarsk":
+    Djibouti|Djibouti:
+      synonyms:
+      - "Djibouti":
+    Olinda|Brazil:
+      synonyms:
+      - "Olinda":
+    Managua|Nicaragua:
+      synonyms:
+      - "Managua":
+    Antwerp|Belgium:
+      synonyms:
+      - "Antwerp":
+    Konya|Turkey:
+      synonyms:
+      - "Konya":
+    Bogor|Indonesia:
+      synonyms:
+      - "Bogor":
+    Niamey|Niger:
+      synonyms:
+      - "Niamey":
+    Hartford|United States:
+      synonyms:
+      - "Hartford":
+    Huaibei|China:
+      synonyms:
+      - "Huaibei":
+    Xinyu|China:
+      synonyms:
+      - "Xinyu":
+    Teresina|Brazil:
+      synonyms:
+      - "Teresina":
+    Naha|Japan:
+      synonyms:
+      - "Naha":
+    Goyang|Korea, South:
+      synonyms:
+      - "Goyang":
+    Nangandao|China:
+      synonyms:
+      - "Nangandao":
+    Yibin|China:
+      synonyms:
+      - "Yibin":
+    Aba|Nigeria:
+      synonyms:
+      - "Aba":
+    Maiduguri|Nigeria:
+      synonyms:
+      - "Maiduguri":
+    Tirana|Albania:
+      synonyms:
+      - "Tirana":
+    Kathmandu|Nepal:
+      synonyms:
+      - "Kathmandu":
+    Az Zarqā’|Jordan:
+      synonyms:
+      - "Az Zarqā’":
+    Tarsus|Turkey:
+      synonyms:
+      - "Tarsus":
+    Bengbu|China:
+      synonyms:
+      - "Bengbu":
+    Mendoza|Argentina:
+      synonyms:
+      - "Mendoza":
+    Hubli|India:
+      synonyms:
+      - "Hubli":
+    Concepción|Chile:
+      synonyms:
+      - "Concepción":
+    Zaria|Nigeria:
+      synonyms:
+      - "Zaria":
+    Dengtalu|China:
+      synonyms:
+      - "Dengtalu":
+    Cartagena|Colombia:
+      synonyms:
+      - "Cartagena":
+    Mysore|India:
+      synonyms:
+      - "Mysore":
+    Ulaanbaatar|Mongolia:
+      synonyms:
+      - "Ulaanbaatar":
+    Mexicali|Mexico:
+      synonyms:
+      - "Mexicali":
+    Tongliao|China:
+      synonyms:
+      - "Tongliao":
+    Mombasa|Kenya:
+      synonyms:
+      - "Mombasa":
+    Newcastle upon Tyne|United Kingdom:
+      synonyms:
+      - "Newcastle upon Tyne":
+    Novo Hamburgo|Brazil:
+      synonyms:
+      - "Novo Hamburgo":
+    Callao|Peru:
+      synonyms:
+      - "Callao":
+    Bilbao|Spain:
+      synonyms:
+      - "Bilbao":
+    Johor Bahru|Malaysia:
+      synonyms:
+      - "Johor Bahru":
+    Raipur|India:
+      synonyms:
+      - "Raipur":
+    Xiaoxita|China:
+      synonyms:
+      - "Xiaoxita":
+    Fort Worth|United States:
+      synonyms:
+      - "Fort Worth":
+    Salem|India:
+      synonyms:
+      - "Salem":
+    Yangjiang|China:
+      synonyms:
+      - "Yangjiang":
+    Marrakech|Morocco:
+      synonyms:
+      - "Marrakech":
+    Kaifeng Chengguanzhen|China:
+      synonyms:
+      - "Kaifeng Chengguanzhen":
+    Dandong|China:
+      synonyms:
+      - "Dandong":
+    Al Başrah|Iraq:
+      synonyms:
+      - "Al Başrah":
+    Aguascalientes|Mexico:
+      synonyms:
+      - "Aguascalientes":
+    Tucson|United States:
+      synonyms:
+      - "Tucson":
+    Okayama|Japan:
+      synonyms:
+      - "Okayama":
+    Bucheon|Korea, South:
+      synonyms:
+      - "Bucheon":
+    Xuanzhou|China:
+      synonyms:
+      - "Xuanzhou":
+    Bandar Lampung|Indonesia:
+      synonyms:
+      - "Bandar Lampung":
+    Rizhao|China:
+      synonyms:
+      - "Rizhao":
+    Palermo|Italy:
+      synonyms:
+      - "Palermo":
+    Caerdydd|United Kingdom:
+      synonyms:
+      - "Caerdydd":
+    Kigali|Rwanda:
+      synonyms:
+      - "Kigali":
+    Tampico|Mexico:
+      synonyms:
+      - "Tampico":
+    Jiaozuo|China:
+      synonyms:
+      - "Jiaozuo":
+    Padang|Indonesia:
+      synonyms:
+      - "Padang":
+    Jalandhar|India:
+      synonyms:
+      - "Jalandhar":
+    Zhenjiang|China:
+      synonyms:
+      - "Zhenjiang":
+    Valparaíso|Chile:
+      synonyms:
+      - "Valparaíso":
+    Pingdingshan|China:
+      synonyms:
+      - "Pingdingshan":
+    Zunyi|China:
+      synonyms:
+      - "Zunyi":
+    Anshun|China:
+      synonyms:
+      - "Anshun":
+    Toulouse|France:
+      synonyms:
+      - "Toulouse":
+    El Paso|United States:
+      synonyms:
+      - "El Paso":
+    Iguaçu|Brazil:
+      synonyms:
+      - "Iguaçu":
+    Bhubaneshwar|India:
+      synonyms:
+      - "Bhubaneshwar":
+    Voronezh|Russia:
+      synonyms:
+      - "Voronezh":
+    Saratov|Russia:
+      synonyms:
+      - "Saratov":
+    Yuci|China:
+      synonyms:
+      - "Yuci":
+    Yancheng|China:
+      synonyms:
+      - "Yancheng":
+    Bishkek|Kyrgyzstan:
+      synonyms:
+      - "Bishkek":
+    Oslo|Norway:
+      synonyms:
+      - "Oslo":
+    Cuernavaca|Mexico:
+      synonyms:
+      - "Cuernavaca":
+    Linfen|China:
+      synonyms:
+      - "Linfen":
+    Honolulu|United States:
+      synonyms:
+      - "Honolulu":
+    Bangui|Central African Republic:
+      synonyms:
+      - "Bangui":
+    Warri|Nigeria:
+      synonyms:
+      - "Warri":
+    Basel|Switzerland:
+      synonyms:
+      - "Basel":
+    San Miguel de Tucumán|Argentina:
+      synonyms:
+      - "San Miguel de Tucumán":
+    Kermānshāh|Iran:
+      synonyms:
+      - "Kermānshāh":
+    Thessaloníki|Greece:
+      synonyms:
+      - "Thessaloníki":
+    Omaha|United States:
+      synonyms:
+      - "Omaha":
+    Freetown|Sierra Leone:
+      synonyms:
+      - "Freetown":
+    Kota|India:
+      synonyms:
+      - "Kota":
+    Braga|Portugal:
+      synonyms:
+      - "Braga":
+    Jhānsi|India:
+      synonyms:
+      - "Jhānsi":
+    Rongjiawan|China:
+      synonyms:
+      - "Rongjiawan":
+    Nottingham|United Kingdom:
+      synonyms:
+      - "Nottingham":
+    Agadir|Morocco:
+      synonyms:
+      - "Agadir":
+    Butterworth|Malaysia:
+      synonyms:
+      - "Butterworth":
+    Bareilly|India:
+      synonyms:
+      - "Bareilly":
+    Jos|Nigeria:
+      synonyms:
+      - "Jos":
+    Xingyi|China:
+      synonyms:
+      - "Xingyi":
+    Cebu City|Philippines:
+      synonyms:
+      - "Cebu City":
+    Arequipa|Peru:
+      synonyms:
+      - "Arequipa":
+    Liverpool|United Kingdom:
+      synonyms:
+      - "Liverpool":
+    Wuhu|China:
+      synonyms:
+      - "Wuhu":
+    Langfang|China:
+      synonyms:
+      - "Langfang":
+    Rājshāhi|Bangladesh:
+      synonyms:
+      - "Rājshāhi":
+    Zhaotong|China:
+      synonyms:
+      - "Zhaotong":
+    Culiacán|Mexico:
+      synonyms:
+      - "Culiacán":
+    Valencia|Spain:
+      synonyms:
+      - "Valencia":
+    Lingyuan|China:
+      synonyms:
+      - "Lingyuan":
+    Cuiabá|Brazil:
+      synonyms:
+      - "Cuiabá":
+    Quy Nhơn|Vietnam:
+      synonyms:
+      - "Quy Nhơn":
+    Malang|Indonesia:
+      synonyms:
+      - "Malang":
+    Alīgarh|India:
+      synonyms:
+      - "Alīgarh":
+    L’viv|Ukraine:
+      synonyms:
+      - "L’viv":
+    Bordeaux|France:
+      synonyms:
+      - "Bordeaux":
+    McAllen|United States:
+      synonyms:
+      - "McAllen":
+    Baojishi|China:
+      synonyms:
+      - "Baojishi":
+    Pekanbaru|Indonesia:
+      synonyms:
+      - "Pekanbaru":
+    Oran|Algeria:
+      synonyms:
+      - "Oran":
+    Yingkou|China:
+      synonyms:
+      - "Yingkou":
+    Bhiwandi|India:
+      synonyms:
+      - "Bhiwandi":
+    Liaoyang|China:
+      synonyms:
+      - "Liaoyang":
+    Chihuahua|Mexico:
+      synonyms:
+      - "Chihuahua":
+    Jammu|India:
+      synonyms:
+      - "Jammu":
+    Melaka|Malaysia:
+      synonyms:
+      - "Melaka":
+    Zaporizhzhya|Ukraine:
+      synonyms:
+      - "Zaporizhzhya":
+    Morādābād|India:
+      synonyms:
+      - "Morādābād":
+    Antalya|Turkey:
+      synonyms:
+      - "Antalya":
+    Islamabad|Pakistan:
+      synonyms:
+      - "Islamabad":
+    Al Ḩudaydah|Yemen:
+      synonyms:
+      - "Al Ḩudaydah":
+    Campo Grande|Brazil:
+      synonyms:
+      - "Campo Grande":
+    Shaoxing|China:
+      synonyms:
+      - "Shaoxing":
+    Yichun|China:
+      synonyms:
+      - "Yichun":
+    Mangalore|India:
+      synonyms:
+      - "Mangalore":
+    Wuppertal|Germany:
+      synonyms:
+      - "Wuppertal":
+    Cheongju|Korea, South:
+      synonyms:
+      - "Cheongju":
+    Zamboanga City|Philippines:
+      synonyms:
+      - "Zamboanga City":
+    Hamhŭng|Korea, North:
+      synonyms:
+      - "Hamhŭng":
+    Fuyang|China:
+      synonyms:
+      - "Fuyang":
+    Ilorin|Nigeria:
+      synonyms:
+      - "Ilorin":
+    Saarbrücken|Germany:
+      synonyms:
+      - "Saarbrücken":
+    Fuxin|China:
+      synonyms:
+      - "Fuxin":
+    Shiyan|China:
+      synonyms:
+      - "Shiyan":
+    Quetta|Pakistan:
+      synonyms:
+      - "Quetta":
+    Trujillo|Peru:
+      synonyms:
+      - "Trujillo":
+    Kananga|Congo (Kinshasa):
+      synonyms:
+      - "Kananga":
+    Trabzon|Turkey:
+      synonyms:
+      - "Trabzon":
+    Cotonou|Benin:
+      synonyms:
+      - "Cotonou":
+    Jincheng|China:
+      synonyms:
+      - "Jincheng":
+    Albuquerque|United States:
+      synonyms:
+      - "Albuquerque":
+    Łódź|Poland:
+      synonyms:
+      - "Łódź":
+    Kraków|Poland:
+      synonyms:
+      - "Kraków":
+    Vientiane|Laos:
+      synonyms:
+      - "Vientiane":
+    Saltillo|Mexico:
+      synonyms:
+      - "Saltillo":
+    São José dos Campos|Brazil:
+      synonyms:
+      - "São José dos Campos":
+    Hŭngnam|Korea, North:
+      synonyms:
+      - "Hŭngnam":
+    Ta‘izz|Yemen:
+      synonyms:
+      - "Ta‘izz":
+    Pietermaritzburg|South Africa:
+      synonyms:
+      - "Pietermaritzburg":
+    Tangier|Morocco:
+      synonyms:
+      - "Tangier":
+    Hsinchu|Taiwan:
+      synonyms:
+      - "Hsinchu":
+    Changhua|Taiwan:
+      synonyms:
+      - "Changhua":
+    Kolhāpur|India:
+      synonyms:
+      - "Kolhāpur":
+    Farg‘ona|Uzbekistan:
+      synonyms:
+      - "Farg‘ona":
+    Namangan|Uzbekistan:
+      synonyms:
+      - "Namangan":
+    Liège|Belgium:
+      synonyms:
+      - "Liège":
+    Ciudad Guayana|Venezuela:
+      synonyms:
+      - "Ciudad Guayana":
+    Birmingham|United States:
+      synonyms:
+      - "Birmingham":
+    Hegang|China:
+      synonyms:
+      - "Hegang":
+    Riga|Latvia:
+      synonyms:
+      - "Riga":
+    Nouakchott|Mauritania:
+      synonyms:
+      - "Nouakchott":
+    Naga City|Philippines:
+      synonyms:
+      - "Naga City":
+    Gdańsk|Poland:
+      synonyms:
+      - "Gdańsk":
+    Ansan|Korea, South:
+      synonyms:
+      - "Ansan":
+    Nuremberg|Germany:
+      synonyms:
+      - "Nuremberg":
+    Oyo|Nigeria:
+      synonyms:
+      - "Oyo":
+    Muscat|Oman:
+      synonyms:
+      - "Muscat":
+    Amrāvati|India:
+      synonyms:
+      - "Amrāvati":
+    Denpasar|Indonesia:
+      synonyms:
+      - "Denpasar":
+    Sokoto|Nigeria:
+      synonyms:
+      - "Sokoto":
+    Beihai|China:
+      synonyms:
+      - "Beihai":
+    Ashgabat|Turkmenistan:
+      synonyms:
+      - "Ashgabat":
+    Bremen|Germany:
+      synonyms:
+      - "Bremen":
+    As Sulaymānīyah|Iraq:
+      synonyms:
+      - "As Sulaymānīyah":
+    Zagreb|Croatia:
+      synonyms:
+      - "Zagreb":
+    Hannover|Germany:
+      synonyms:
+      - "Hannover":
+    Cúcuta|Colombia:
+      synonyms:
+      - "Cúcuta":
+    Hamilton|Canada:
+      synonyms:
+      - "Hamilton":
+    Moshi|Tanzania:
+      synonyms:
+      - "Moshi":
+    Shaoguan|China:
+      synonyms:
+      - "Shaoguan":
+    Kumamoto|Japan:
+      synonyms:
+      - "Kumamoto":
+    Dayton|United States:
+      synonyms:
+      - "Dayton":
+    Xinpu|China:
+      synonyms:
+      - "Xinpu":
+    Acapulco de Juárez|Mexico:
+      synonyms:
+      - "Acapulco de Juárez":
+    Kandahār|Afghanistan:
+      synonyms:
+      - "Kandahār":
+    Dehra Dūn|India:
+      synonyms:
+      - "Dehra Dūn":
+    Rochester|United States:
+      synonyms:
+      - "Rochester":
+    Jeonju|Korea, South:
+      synonyms:
+      - "Jeonju":
+    Samarkand|Uzbekistan:
+      synonyms:
+      - "Samarkand":
+    Qingyuan|China:
+      synonyms:
+      - "Qingyuan":
+    Sarasota|United States:
+      synonyms:
+      - "Sarasota":
+    Changzhi|China:
+      synonyms:
+      - "Changzhi":
+    Tol’yatti|Russia:
+      synonyms:
+      - "Tol’yatti":
+    Jaboatão|Brazil:
+      synonyms:
+      - "Jaboatão":
+    Shizuoka|Japan:
+      synonyms:
+      - "Shizuoka":
+    Bulawayo|Zimbabwe:
+      synonyms:
+      - "Bulawayo":
+    Soledad|Colombia:
+      synonyms:
+      - "Soledad":
+    Fresno|United States:
+      synonyms:
+      - "Fresno":
+    Meknès|Morocco:
+      synonyms:
+      - "Meknès":
+    Sarajevo|Bosnia And Herzegovina:
+      synonyms:
+      - "Sarajevo":
+    La Plata|Argentina:
+      synonyms:
+      - "La Plata":
+    Mālegaon|India:
+      synonyms:
+      - "Mālegaon":
+    Enugu|Nigeria:
+      synonyms:
+      - "Enugu":
+    Chisinau|Moldova:
+      synonyms:
+      - "Chisinau":
+    Huangshi|China:
+      synonyms:
+      - "Huangshi":
+    Aracaju|Brazil:
+      synonyms:
+      - "Aracaju":
+    Allentown|United States:
+      synonyms:
+      - "Allentown":
+    Bonn|Germany:
+      synonyms:
+      - "Bonn":
+    San Pedro Sula|Honduras:
+      synonyms:
+      - "San Pedro Sula":
+    Nellore|India:
+      synonyms:
+      - "Nellore":
+    Catania|Italy:
+      synonyms:
+      - "Catania":
+    Gorakhpur|India:
+      synonyms:
+      - "Gorakhpur":
+    Ipoh|Malaysia:
+      synonyms:
+      - "Ipoh":
+    Ch’ŏngjin|Korea, North:
+      synonyms:
+      - "Ch’ŏngjin":
+    Tulsa|United States:
+      synonyms:
+      - "Tulsa":
+    Utsunomiya|Japan:
+      synonyms:
+      - "Utsunomiya":
+    Puyang Chengguanzhen|China:
+      synonyms:
+      - "Puyang Chengguanzhen":
+    An Najaf|Iraq:
+      synonyms:
+      - "An Najaf":
+    São José dos Pinhais|Brazil:
+      synonyms:
+      - "São José dos Pinhais":
+    Santo André|Brazil:
+      synonyms:
+      - "Santo André":
+    Bytom|Poland:
+      synonyms:
+      - "Bytom":
+    Pointe-Noire|Congo (Brazzaville):
+      synonyms:
+      - "Pointe-Noire":
+    Aţ Ţā’if|Saudi Arabia:
+      synonyms:
+      - "Aţ Ţā’if":
+    Ismailia|Egypt:
+      synonyms:
+      - "Ismailia":
+    Concord|United States:
+      synonyms:
+      - "Concord":
+    Shimoga|India:
+      synonyms:
+      - "Shimoga":
+    Biên Hòa|Vietnam:
+      synonyms:
+      - "Biên Hòa":
+    Xiping|China:
+      synonyms:
+      - "Xiping":
+    Kryvyy Rih|Ukraine:
+      synonyms:
+      - "Kryvyy Rih":
+    Irbid|Jordan:
+      synonyms:
+      - "Irbid":
+    Tiruppūr|India:
+      synonyms:
+      - "Tiruppūr":
+    Andijon|Uzbekistan:
+      synonyms:
+      - "Andijon":
+    Krasnodar|Russia:
+      synonyms:
+      - "Krasnodar":
+    Zaragoza|Spain:
+      synonyms:
+      - "Zaragoza":
+    Genoa|Italy:
+      synonyms:
+      - "Genoa":
+    Lilongwe|Malawi:
+      synonyms:
+      - "Lilongwe":
+    Diyarbakır|Turkey:
+      synonyms:
+      - "Diyarbakır":
+    Morelia|Mexico:
+      synonyms:
+      - "Morelia":
+    Ul’yanovsk|Russia:
+      synonyms:
+      - "Ul’yanovsk":
+    Utrecht|Netherlands:
+      synonyms:
+      - "Utrecht":
+    Kikwit|Congo (Kinshasa):
+      synonyms:
+      - "Kikwit":
+    Al Hufūf|Saudi Arabia:
+      synonyms:
+      - "Al Hufūf":
+    Yogyakarta|Indonesia:
+      synonyms:
+      - "Yogyakarta":
+    Wrocław|Poland:
+      synonyms:
+      - "Wrocław":
+    Winnipeg|Canada:
+      synonyms:
+      - "Winnipeg":
+    Izhevsk|Russia:
+      synonyms:
+      - "Izhevsk":
+    Cape Coral|United States:
+      synonyms:
+      - "Cape Coral":
+    Springfield|United States:
+      synonyms:
+      - "Springfield":
+    Zhuozhou|China:
+      synonyms:
+      - "Zhuozhou":
+    Raurkela|India:
+      synonyms:
+      - "Raurkela":
+    Québec|Canada:
+      synonyms:
+      - "Québec":
+    Poznań|Poland:
+      synonyms:
+      - "Poznań":
+    Colorado Springs|United States:
+      synonyms:
+      - "Colorado Springs":
+    Port Said|Egypt:
+      synonyms:
+      - "Port Said":
+    Nānded|India:
+      synonyms:
+      - "Nānded":
+    Bannu|Pakistan:
+      synonyms:
+      - "Bannu":
+    Asmara|Eritrea:
+      synonyms:
+      - "Asmara":
+    Southend-on-Sea|United Kingdom:
+      synonyms:
+      - "Southend-on-Sea":
+    Dresden|Germany:
+      synonyms:
+      - "Dresden":
+    Wiesbaden|Germany:
+      synonyms:
+      - "Wiesbaden":
+    Charleston|United States:
+      synonyms:
+      - "Charleston":
+    Changping|China:
+      synonyms:
+      - "Changping":
+    Palu|Indonesia:
+      synonyms:
+      - "Palu":
+    Taizhou|China:
+      synonyms:
+      - "Taizhou":
+    Xingtai|China:
+      synonyms:
+      - "Xingtai":
+    Samsun|Turkey:
+      synonyms:
+      - "Samsun":
+    Luxor|Egypt:
+      synonyms:
+      - "Luxor":
+    Belgaum|India:
+      synonyms:
+      - "Belgaum":
+    Pontianak|Indonesia:
+      synonyms:
+      - "Pontianak":
+    Yaroslavl’|Russia:
+      synonyms:
+      - "Yaroslavl’":
+    Constantine|Algeria:
+      synonyms:
+      - "Constantine":
+    Banjarmasin|Indonesia:
+      synonyms:
+      - "Banjarmasin":
+    Abu Dhabi|United Arab Emirates:
+      synonyms:
+      - "Abu Dhabi":
+    Grand Rapids|United States:
+      synonyms:
+      - "Grand Rapids":
+    Kirkuk|Iraq:
+      synonyms:
+      - "Kirkuk":
+    Sāngli|India:
+      synonyms:
+      - "Sāngli":
+    Barcelona|Venezuela:
+      synonyms:
+      - "Barcelona":
+    Mission Viejo|United States:
+      synonyms:
+      - "Mission Viejo":
+    Sūhāj|Egypt:
+      synonyms:
+      - "Sūhāj":
+    Al Manşūrah|Egypt:
+      synonyms:
+      - "Al Manşūrah":
+    Canoas|Brazil:
+      synonyms:
+      - "Canoas":
+    Barnaul|Russia:
+      synonyms:
+      - "Barnaul":
+    Zāhedān|Iran:
+      synonyms:
+      - "Zāhedān":
+    Jalālābād|Afghanistan:
+      synonyms:
+      - "Jalālābād":
+    Albany|United States:
+      synonyms:
+      - "Albany":
+    Chiclayo|Peru:
+      synonyms:
+      - "Chiclayo":
+    Hermosillo|Mexico:
+      synonyms:
+      - "Hermosillo":
+    Port Louis|Mauritius:
+      synonyms:
+      - "Port Louis":
+    Chānda|India:
+      synonyms:
+      - "Chānda":
+    Al Ḩillah|Iraq:
+      synonyms:
+      - "Al Ḩillah":
+    Al Ḩillah|Saudi Arabia:
+      synonyms:
+      - "Al Ḩillah":
+    Rasht|Iran:
+      synonyms:
+      - "Rasht":
+    Nagano|Japan:
+      synonyms:
+      - "Nagano":
+    Vinh|Vietnam:
+      synonyms:
+      - "Vinh":
+    Abeokuta|Nigeria:
+      synonyms:
+      - "Abeokuta":
+    Kayseri|Turkey:
+      synonyms:
+      - "Kayseri":
+    Samarinda|Indonesia:
+      synonyms:
+      - "Samarinda":
+    Ajmer|India:
+      synonyms:
+      - "Ajmer":
+    Dortmund|Germany:
+      synonyms:
+      - "Dortmund":
+    Vladivostok|Russia:
+      synonyms:
+      - "Vladivostok":
+    Irkutsk|Russia:
+      synonyms:
+      - "Irkutsk":
+    Knoxville|United States:
+      synonyms:
+      - "Knoxville":
+    Blantyre|Malawi:
+      synonyms:
+      - "Blantyre":
+    Baton Rouge|United States:
+      synonyms:
+      - "Baton Rouge":
+    Anqing|China:
+      synonyms:
+      - "Anqing":
+    Cuttack|India:
+      synonyms:
+      - "Cuttack":
+    Hachiōji|Japan:
+      synonyms:
+      - "Hachiōji":
+    Khabarovsk|Russia:
+      synonyms:
+      - "Khabarovsk":
+    Veracruz|Mexico:
+      synonyms:
+      - "Veracruz":
+    Kisangani|Congo (Kinshasa):
+      synonyms:
+      - "Kisangani":
+    Libreville|Gabon:
+      synonyms:
+      - "Libreville":
+    Kermān|Iran:
+      synonyms:
+      - "Kermān":
+    Orūmīyeh|Iran:
+      synonyms:
+      - "Orūmīyeh":
+    Bīkaner|India:
+      synonyms:
+      - "Bīkaner":
+    Quetzaltenango|Guatemala:
+      synonyms:
+      - "Quetzaltenango":
+    Bakersfield|United States:
+      synonyms:
+      - "Bakersfield":
+    Ogden|United States:
+      synonyms:
+      - "Ogden":
+    Shihezi|China:
+      synonyms:
+      - "Shihezi":
+    Kuching|Malaysia:
+      synonyms:
+      - "Kuching":
+    Shuozhou|China:
+      synonyms:
+      - "Shuozhou":
+    Niigata|Japan:
+      synonyms:
+      - "Niigata":
+    Pereira|Colombia:
+      synonyms:
+      - "Pereira":
+    Macau|Macau:
+      synonyms:
+      - "Macau":
+    New Haven|United States:
+      synonyms:
+      - "New Haven":
+    Bouaké|Côte D’Ivoire:
+      synonyms:
+      - "Bouaké":
+    Columbia|United States:
+      synonyms:
+      - "Columbia":
+    Akron|United States:
+      synonyms:
+      - "Akron":
+    Binjai|Indonesia:
+      synonyms:
+      - "Binjai":
+    Manama|Bahrain:
+      synonyms:
+      - "Manama":
+    Uberlândia|Brazil:
+      synonyms:
+      - "Uberlândia":
+    Sorocaba|Brazil:
+      synonyms:
+      - "Sorocaba":
+    Wusong|China:
+      synonyms:
+      - "Wusong":
+    Weihai|China:
+      synonyms:
+      - "Weihai":
+    Mar del Plata|Argentina:
+      synonyms:
+      - "Mar del Plata":
+    Santiago de Cuba|Cuba:
+      synonyms:
+      - "Santiago de Cuba":
+    Siping|China:
+      synonyms:
+      - "Siping":
+    Kagoshima|Japan:
+      synonyms:
+      - "Kagoshima":
+    Surakarta|Indonesia:
+      synonyms:
+      - "Surakarta":
+    Makhachkala|Russia:
+      synonyms:
+      - "Makhachkala":
+    Bhāvnagar|India:
+      synonyms:
+      - "Bhāvnagar":
+    Uyo|Nigeria:
+      synonyms:
+      - "Uyo":
+    Bristol|United Kingdom:
+      synonyms:
+      - "Bristol":
+    Bahawalpur|Pakistan:
+      synonyms:
+      - "Bahawalpur":
+    Kenitra|Morocco:
+      synonyms:
+      - "Kenitra":
+    Ribeirão Prêto|Brazil:
+      synonyms:
+      - "Ribeirão Prêto":
+    Kanazawa|Japan:
+      synonyms:
+      - "Kanazawa":
+    Orenburg|Russia:
+      synonyms:
+      - "Orenburg":
+    Málaga|Spain:
+      synonyms:
+      - "Málaga":
+    Tabūk|Saudi Arabia:
+      synonyms:
+      - "Tabūk":
+    Puerto La Cruz|Venezuela:
+      synonyms:
+      - "Puerto La Cruz":
+    Jiujiang|China:
+      synonyms:
+      - "Jiujiang":
+    Hisar|India:
+      synonyms:
+      - "Hisar":
+    Kashgar|China:
+      synonyms:
+      - "Kashgar":
+    Matola|Mozambique:
+      synonyms:
+      - "Matola":
+    Bilāspur|India:
+      synonyms:
+      - "Bilāspur":
+    Sargodha|Pakistan:
+      synonyms:
+      - "Sargodha":
+    Leipzig|Germany:
+      synonyms:
+      - "Leipzig":
+    Vilnius|Lithuania:
+      synonyms:
+      - "Vilnius":
+    Tinnevelly|India:
+      synonyms:
+      - "Tinnevelly":
+    Cancún|Mexico:
+      synonyms:
+      - "Cancún":
+    Yangzhou|China:
+      synonyms:
+      - "Yangzhou":
+    Novokuznetsk|Russia:
+      synonyms:
+      - "Novokuznetsk":
+    Latakia|Syria:
+      synonyms:
+      - "Latakia":
+    Heroica Matamoros|Mexico:
+      synonyms:
+      - "Heroica Matamoros":
+    Göteborg|Sweden:
+      synonyms:
+      - "Göteborg":
+    Ōtsu|Japan:
+      synonyms:
+      - "Ōtsu":
+    Tomsk|Russia:
+      synonyms:
+      - "Tomsk":
+    Linxia Chengguanzhen|China:
+      synonyms:
+      - "Linxia Chengguanzhen":
+    Matsuyama|Japan:
+      synonyms:
+      - "Matsuyama":
+    Rouen|France:
+      synonyms:
+      - "Rouen":
+    Jiangmen|China:
+      synonyms:
+      - "Jiangmen":
+    Oaxaca|Mexico:
+      synonyms:
+      - "Oaxaca":
+    Beira|Mozambique:
+      synonyms:
+      - "Beira":
+    Guntūr|India:
+      synonyms:
+      - "Guntūr":
+    Tripoli|Lebanon:
+      synonyms:
+      - "Tripoli":
+    Hamadān|Iran:
+      synonyms:
+      - "Hamadān":
+    Cangzhou|China:
+      synonyms:
+      - "Cangzhou":
+    Kota Kinabalu|Malaysia:
+      synonyms:
+      - "Kota Kinabalu":
+    Gold Coast|Australia:
+      synonyms:
+      - "Gold Coast":
+    Ji’an|China:
+      synonyms:
+      - "Ji’an":
+    Londrina|Brazil:
+      synonyms:
+      - "Londrina":
+    Ryazan’|Russia:
+      synonyms:
+      - "Ryazan’":
+    Shashi|China:
+      synonyms:
+      - "Shashi":
+    Bello|Colombia:
+      synonyms:
+      - "Bello":
+    Tyumen’|Russia:
+      synonyms:
+      - "Tyumen’":
+    Lipetsk|Russia:
+      synonyms:
+      - "Lipetsk":
+    Shiliguri|India:
+      synonyms:
+      - "Shiliguri":
+    Eskişehir|Turkey:
+      synonyms:
+      - "Eskişehir":
+    Banda Aceh|Indonesia:
+      synonyms:
+      - "Banda Aceh":
+    Ujjain|India:
+      synonyms:
+      - "Ujjain":
+    Salta|Argentina:
+      synonyms:
+      - "Salta":
+    Penza|Russia:
+      synonyms:
+      - "Penza":
+    Blida|Algeria:
+      synonyms:
+      - "Blida":
+    Mykolayiv|Ukraine:
+      synonyms:
+      - "Mykolayiv":
+    Karbalā’|Iraq:
+      synonyms:
+      - "Karbalā’":
+    Suez|Egypt:
+      synonyms:
+      - "Suez":
+    Gliwice|Poland:
+      synonyms:
+      - "Gliwice":
+    Bukittinggi|Indonesia:
+      synonyms:
+      - "Bukittinggi":
+    Liaoyuan|China:
+      synonyms:
+      - "Liaoyuan":
+    Kota Bharu|Malaysia:
+      synonyms:
+      - "Kota Bharu":
+    Jundiaí|Brazil:
+      synonyms:
+      - "Jundiaí":
+    Edinburgh|United Kingdom:
+      synonyms:
+      - "Edinburgh":
+    Tlaxcala|Mexico:
+      synonyms:
+      - "Tlaxcala":
+    Provo|United States:
+      synonyms:
+      - "Provo":
+    Arāk|Iran:
+      synonyms:
+      - "Arāk":
+    Davangere|India:
+      synonyms:
+      - "Davangere":
+    Viña del Mar|Chile:
+      synonyms:
+      - "Viña del Mar":
+    Pingtung|Taiwan:
+      synonyms:
+      - "Pingtung":
+    Annaba|Algeria:
+      synonyms:
+      - "Annaba":
+    Akola|India:
+      synonyms:
+      - "Akola":
+    Brighton|United Kingdom:
+      synonyms:
+      - "Brighton":
+    Astrakhan’|Russia:
+      synonyms:
+      - "Astrakhan’":
+    Bradford|United Kingdom:
+      synonyms:
+      - "Bradford":
+    Bari|Italy:
+      synonyms:
+      - "Bari":
+    Damanhūr|Egypt:
+      synonyms:
+      - "Damanhūr":
+    Al Minyā|Egypt:
+      synonyms:
+      - "Al Minyā":
+    Taoyuan District|Taiwan:
+      synonyms:
+      - "Taoyuan District":
+    Keelung|Taiwan:
+      synonyms:
+      - "Keelung":
+    San Lorenzo|Paraguay:
+      synonyms:
+      - "San Lorenzo":
+    Pasuruan|Indonesia:
+      synonyms:
+      - "Pasuruan":
+    Chiayi|Taiwan:
+      synonyms:
+      - "Chiayi":
+    Thái Nguyên|Vietnam:
+      synonyms:
+      - "Thái Nguyên":
+    Awka|Nigeria:
+      synonyms:
+      - "Awka":
+    Shuangyashan|China:
+      synonyms:
+      - "Shuangyashan":
+    Mazatán|Mexico:
+      synonyms:
+      - "Mazatán":
+    Tsu|Japan:
+      synonyms:
+      - "Tsu":
+matchType: EXACT_MATCH
