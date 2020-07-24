@@ -4,7 +4,7 @@ Community Types is a collection of open Types to use with [Actions Builder](http
 
 ## Usage
 
-Use the table below to find a Type you are looking for.
+Use the contents table below to find a Type you are looking for.
 
 Include the type in your project using the [gactions CLI](https://developers.google.com/assistant/actionssdk/gactions).
 
@@ -29,10 +29,11 @@ gactions push
 | Type                                        | Description                                                | Source                                                                                 |
 | ------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | [Yes/No](builder/types/YesNo.yaml)          | Yes / No type                                              |
-| [Languages](builder/types/Languages.yaml)   | All languages supported by AoG with language code as a key | [AoG Documentation](https://developers.google.com/assistant/console/languages-locales) |
-| [Currencies](builder/types/Currencies.yaml) | Currencies with currency code as a key                     | [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)                                     |
-| [URL](builder/types/URL.yaml)               | Regex type that matches URL                                |
-| [Color](builder/types/Color.yaml)           | Color type with color names and HEX code as a key          | [color-names](https://github.com/meodai/color-names)                                   |
+| [Languages](builder/custom/types/Languages.yaml)   | All languages supported by AoG with language code as a key | [AoG Documentation](https://developers.google.com/assistant/console/languages-locales) |
+| [Currencies](builder/custom/types/Currencies.yaml) | Currencies with currency code as a key                     | [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)                                     |
+| [URL](builder/custom/types/URL.yaml)               | Regex type that matches URL                                |
+| [Color](builder/custom/types/Color.yaml)           | Color type with color names and HEX code as a key          | [color-names](https://github.com/meodai/color-names)                                   |
+| [Countries](builder/custom/types/Countries.yaml)           | Countries with country code as a key          | [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1)                                   |
 
 ## Contributing
 

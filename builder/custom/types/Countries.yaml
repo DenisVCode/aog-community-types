@@ -1,0 +1,1003 @@
+# Version 1
+# Original Source: https://en.wikipedia.org/wiki/ISO_3166-1
+# Type source: https://github.com/DenisVCode/aog-community-types
+
+synonym: 
+  entities:
+    AF:
+      synonyms:
+      - "Afghanistan":
+      - "AFG":
+    AX:
+      synonyms:
+      - "Åland Islands":
+      - "ALA":
+    AL:
+      synonyms:
+      - "Albania":
+      - "ALB":
+    DZ:
+      synonyms:
+      - "Algeria":
+      - "DZA":
+    AS:
+      synonyms:
+      - "American Samoa":
+      - "ASM":
+    AD:
+      synonyms:
+      - "Andorra":
+      - "AND":
+    AO:
+      synonyms:
+      - "Angola":
+      - "AGO":
+    AI:
+      synonyms:
+      - "Anguilla":
+      - "AIA":
+    AQ:
+      synonyms:
+      - "Antarctica":
+      - "ATA":
+    AG:
+      synonyms:
+      - "Antigua and Barbuda":
+      - "ATG":
+    AR:
+      synonyms:
+      - "Argentina":
+      - "ARG":
+    AM:
+      synonyms:
+      - "Armenia":
+      - "ARM":
+    AW:
+      synonyms:
+      - "Aruba":
+      - "ABW":
+    AU:
+      synonyms:
+      - "Australia":
+      - "AUS":
+    AT:
+      synonyms:
+      - "Austria":
+      - "AUT":
+    AZ:
+      synonyms:
+      - "Azerbaijan":
+      - "AZE":
+    BS:
+      synonyms:
+      - "Bahamas":
+      - "BHS":
+    BH:
+      synonyms:
+      - "Bahrain":
+      - "BHR":
+    BD:
+      synonyms:
+      - "Bangladesh":
+      - "BGD":
+    BB:
+      synonyms:
+      - "Barbados":
+      - "BRB":
+    BY:
+      synonyms:
+      - "Belarus":
+      - "BLR":
+    BE:
+      synonyms:
+      - "Belgium":
+      - "BEL":
+    BZ:
+      synonyms:
+      - "Belize":
+      - "BLZ":
+    BJ:
+      synonyms:
+      - "Benin":
+      - "BEN":
+    BM:
+      synonyms:
+      - "Bermuda":
+      - "BMU":
+    BT:
+      synonyms:
+      - "Bhutan":
+      - "BTN":
+    BO:
+      synonyms:
+      - "Bolivia (Plurinational State of)":
+      - "BOL":
+    BQ:
+      synonyms:
+      - "Bonaire, Sint Eustatius and Saba":
+      - "BES":
+    BA:
+      synonyms:
+      - "Bosnia and Herzegovina":
+      - "BIH":
+    BW:
+      synonyms:
+      - "Botswana":
+      - "BWA":
+    BV:
+      synonyms:
+      - "Bouvet Island":
+      - "BVT":
+    BR:
+      synonyms:
+      - "Brazil":
+      - "BRA":
+    IO:
+      synonyms:
+      - "British Indian Ocean Territory":
+      - "IOT":
+    BN:
+      synonyms:
+      - "Brunei Darussalam":
+      - "BRN":
+    BG:
+      synonyms:
+      - "Bulgaria":
+      - "BGR":
+    BF:
+      synonyms:
+      - "Burkina Faso":
+      - "BFA":
+    BI:
+      synonyms:
+      - "Burundi":
+      - "BDI":
+    CV:
+      synonyms:
+      - "Cabo Verde":
+      - "CPV":
+    KH:
+      synonyms:
+      - "Cambodia":
+      - "KHM":
+    CM:
+      synonyms:
+      - "Cameroon":
+      - "CMR":
+    CA:
+      synonyms:
+      - "Canada":
+      - "CAN":
+    KY:
+      synonyms:
+      - "Cayman Islands":
+      - "CYM":
+    CF:
+      synonyms:
+      - "Central African Republic":
+      - "CAF":
+    TD:
+      synonyms:
+      - "Chad":
+      - "TCD":
+    CL:
+      synonyms:
+      - "Chile":
+      - "CHL":
+    CN:
+      synonyms:
+      - "China":
+      - "CHN":
+    CX:
+      synonyms:
+      - "Christmas Island":
+      - "CXR":
+    CC:
+      synonyms:
+      - "Cocos (Keeling) Islands":
+      - "CCK":
+    CO:
+      synonyms:
+      - "Colombia":
+      - "COL":
+    KM:
+      synonyms:
+      - "Comoros":
+      - "COM":
+    CG:
+      synonyms:
+      - "Congo":
+      - "COG":
+    CD:
+      synonyms:
+      - "Congo, Democratic Republic of the":
+      - "COD":
+    CK:
+      synonyms:
+      - "Cook Islands":
+      - "COK":
+    CR:
+      synonyms:
+      - "Costa Rica":
+      - "CRI":
+    CI:
+      synonyms:
+      - "Côte d'Ivoire":
+      - "CIV":
+    HR:
+      synonyms:
+      - "Croatia":
+      - "HRV":
+    CU:
+      synonyms:
+      - "Cuba":
+      - "CUB":
+    CW:
+      synonyms:
+      - "Curaçao":
+      - "CUW":
+    CY:
+      synonyms:
+      - "Cyprus":
+      - "CYP":
+    CZ:
+      synonyms:
+      - "Czechia":
+      - "CZE":
+    DK:
+      synonyms:
+      - "Denmark":
+      - "DNK":
+    DJ:
+      synonyms:
+      - "Djibouti":
+      - "DJI":
+    DM:
+      synonyms:
+      - "Dominica":
+      - "DMA":
+    DO:
+      synonyms:
+      - "Dominican Republic":
+      - "DOM":
+    EC:
+      synonyms:
+      - "Ecuador":
+      - "ECU":
+    EG:
+      synonyms:
+      - "Egypt":
+      - "EGY":
+    SV:
+      synonyms:
+      - "El Salvador":
+      - "SLV":
+    GQ:
+      synonyms:
+      - "Equatorial Guinea":
+      - "GNQ":
+    ER:
+      synonyms:
+      - "Eritrea":
+      - "ERI":
+    EE:
+      synonyms:
+      - "Estonia":
+      - "EST":
+    SZ:
+      synonyms:
+      - "Eswatini":
+      - "SWZ":
+    ET:
+      synonyms:
+      - "Ethiopia":
+      - "ETH":
+    FK:
+      synonyms:
+      - "Falkland Islands (Malvinas)":
+      - "FLK":
+    FO:
+      synonyms:
+      - "Faroe Islands":
+      - "FRO":
+    FJ:
+      synonyms:
+      - "Fiji":
+      - "FJI":
+    FI:
+      synonyms:
+      - "Finland":
+      - "FIN":
+    FR:
+      synonyms:
+      - "France":
+      - "FRA":
+    GF:
+      synonyms:
+      - "French Guiana":
+      - "GUF":
+    PF:
+      synonyms:
+      - "French Polynesia":
+      - "PYF":
+    TF:
+      synonyms:
+      - "French Southern Territories":
+      - "ATF":
+    GA:
+      synonyms:
+      - "Gabon":
+      - "GAB":
+    GM:
+      synonyms:
+      - "Gambia":
+      - "GMB":
+    GE:
+      synonyms:
+      - "Georgia":
+      - "GEO":
+    DE:
+      synonyms:
+      - "Germany":
+      - "DEU":
+    GH:
+      synonyms:
+      - "Ghana":
+      - "GHA":
+    GI:
+      synonyms:
+      - "Gibraltar":
+      - "GIB":
+    GR:
+      synonyms:
+      - "Greece":
+      - "GRC":
+    GL:
+      synonyms:
+      - "Greenland":
+      - "GRL":
+    GD:
+      synonyms:
+      - "Grenada":
+      - "GRD":
+    GP:
+      synonyms:
+      - "Guadeloupe":
+      - "GLP":
+    GU:
+      synonyms:
+      - "Guam":
+      - "GUM":
+    GT:
+      synonyms:
+      - "Guatemala":
+      - "GTM":
+    GG:
+      synonyms:
+      - "Guernsey":
+      - "GGY":
+    GN:
+      synonyms:
+      - "Guinea":
+      - "GIN":
+    GW:
+      synonyms:
+      - "Guinea-Bissau":
+      - "GNB":
+    GY:
+      synonyms:
+      - "Guyana":
+      - "GUY":
+    HT:
+      synonyms:
+      - "Haiti":
+      - "HTI":
+    HM:
+      synonyms:
+      - "Heard Island and McDonald Islands":
+      - "HMD":
+    VA:
+      synonyms:
+      - "Holy See":
+      - "VAT":
+    HN:
+      synonyms:
+      - "Honduras":
+      - "HND":
+    HK:
+      synonyms:
+      - "Hong Kong":
+      - "HKG":
+    HU:
+      synonyms:
+      - "Hungary":
+      - "HUN":
+    IS:
+      synonyms:
+      - "Iceland":
+      - "ISL":
+    IN:
+      synonyms:
+      - "India":
+      - "IND":
+    ID:
+      synonyms:
+      - "Indonesia":
+      - "IDN":
+    IR:
+      synonyms:
+      - "Iran (Islamic Republic of)":
+      - "IRN":
+    IQ:
+      synonyms:
+      - "Iraq":
+      - "IRQ":
+    IE:
+      synonyms:
+      - "Ireland":
+      - "IRL":
+    IM:
+      synonyms:
+      - "Isle of Man":
+      - "IMN":
+    IL:
+      synonyms:
+      - "Israel":
+      - "ISR":
+    IT:
+      synonyms:
+      - "Italy":
+      - "ITA":
+    JM:
+      synonyms:
+      - "Jamaica":
+      - "JAM":
+    JP:
+      synonyms:
+      - "Japan":
+      - "JPN":
+    JE:
+      synonyms:
+      - "Jersey":
+      - "JEY":
+    JO:
+      synonyms:
+      - "Jordan":
+      - "JOR":
+    KZ:
+      synonyms:
+      - "Kazakhstan":
+      - "KAZ":
+    KE:
+      synonyms:
+      - "Kenya":
+      - "KEN":
+    KI:
+      synonyms:
+      - "Kiribati":
+      - "KIR":
+    KP:
+      synonyms:
+      - "Korea (Democratic People's Republic of)":
+      - "PRK":
+    KR:
+      synonyms:
+      - "Korea, Republic of":
+      - "KOR":
+    KW:
+      synonyms:
+      - "Kuwait":
+      - "KWT":
+    KG:
+      synonyms:
+      - "Kyrgyzstan":
+      - "KGZ":
+    LA:
+      synonyms:
+      - "Lao People's Democratic Republic":
+      - "LAO":
+    LV:
+      synonyms:
+      - "Latvia":
+      - "LVA":
+    LB:
+      synonyms:
+      - "Lebanon":
+      - "LBN":
+    LS:
+      synonyms:
+      - "Lesotho":
+      - "LSO":
+    LR:
+      synonyms:
+      - "Liberia":
+      - "LBR":
+    LY:
+      synonyms:
+      - "Libya":
+      - "LBY":
+    LI:
+      synonyms:
+      - "Liechtenstein":
+      - "LIE":
+    LT:
+      synonyms:
+      - "Lithuania":
+      - "LTU":
+    LU:
+      synonyms:
+      - "Luxembourg":
+      - "LUX":
+    MO:
+      synonyms:
+      - "Macao":
+      - "MAC":
+    MG:
+      synonyms:
+      - "Madagascar":
+      - "MDG":
+    MW:
+      synonyms:
+      - "Malawi":
+      - "MWI":
+    MY:
+      synonyms:
+      - "Malaysia":
+      - "MYS":
+    MV:
+      synonyms:
+      - "Maldives":
+      - "MDV":
+    ML:
+      synonyms:
+      - "Mali":
+      - "MLI":
+    MT:
+      synonyms:
+      - "Malta":
+      - "MLT":
+    MH:
+      synonyms:
+      - "Marshall Islands":
+      - "MHL":
+    MQ:
+      synonyms:
+      - "Martinique":
+      - "MTQ":
+    MR:
+      synonyms:
+      - "Mauritania":
+      - "MRT":
+    MU:
+      synonyms:
+      - "Mauritius":
+      - "MUS":
+    YT:
+      synonyms:
+      - "Mayotte":
+      - "MYT":
+    MX:
+      synonyms:
+      - "Mexico":
+      - "MEX":
+    FM:
+      synonyms:
+      - "Micronesia (Federated States of)":
+      - "FSM":
+    MD:
+      synonyms:
+      - "Moldova, Republic of":
+      - "MDA":
+    MC:
+      synonyms:
+      - "Monaco":
+      - "MCO":
+    MN:
+      synonyms:
+      - "Mongolia":
+      - "MNG":
+    ME:
+      synonyms:
+      - "Montenegro":
+      - "MNE":
+    MS:
+      synonyms:
+      - "Montserrat":
+      - "MSR":
+    MA:
+      synonyms:
+      - "Morocco":
+      - "MAR":
+    MZ:
+      synonyms:
+      - "Mozambique":
+      - "MOZ":
+    MM:
+      synonyms:
+      - "Myanmar":
+      - "MMR":
+    NA:
+      synonyms:
+      - "Namibia":
+      - "NAM":
+    NR:
+      synonyms:
+      - "Nauru":
+      - "NRU":
+    NP:
+      synonyms:
+      - "Nepal":
+      - "NPL":
+    NL:
+      synonyms:
+      - "Netherlands":
+      - "NLD":
+    NC:
+      synonyms:
+      - "New Caledonia":
+      - "NCL":
+    NZ:
+      synonyms:
+      - "New Zealand":
+      - "NZL":
+    NI:
+      synonyms:
+      - "Nicaragua":
+      - "NIC":
+    NE:
+      synonyms:
+      - "Niger":
+      - "NER":
+    NG:
+      synonyms:
+      - "Nigeria":
+      - "NGA":
+    NU:
+      synonyms:
+      - "Niue":
+      - "NIU":
+    NF:
+      synonyms:
+      - "Norfolk Island":
+      - "NFK":
+    MK:
+      synonyms:
+      - "North Macedonia":
+      - "MKD":
+    MP:
+      synonyms:
+      - "Northern Mariana Islands":
+      - "MNP":
+    NO:
+      synonyms:
+      - "Norway":
+      - "NOR":
+    OM:
+      synonyms:
+      - "Oman":
+      - "OMN":
+    PK:
+      synonyms:
+      - "Pakistan":
+      - "PAK":
+    PW:
+      synonyms:
+      - "Palau":
+      - "PLW":
+    PS:
+      synonyms:
+      - "Palestine, State of":
+      - "PSE":
+    PA:
+      synonyms:
+      - "Panama":
+      - "PAN":
+    PG:
+      synonyms:
+      - "Papua New Guinea":
+      - "PNG":
+    PY:
+      synonyms:
+      - "Paraguay":
+      - "PRY":
+    PE:
+      synonyms:
+      - "Peru":
+      - "PER":
+    PH:
+      synonyms:
+      - "Philippines":
+      - "PHL":
+    PN:
+      synonyms:
+      - "Pitcairn":
+      - "PCN":
+    PL:
+      synonyms:
+      - "Poland":
+      - "POL":
+    PT:
+      synonyms:
+      - "Portugal":
+      - "PRT":
+    PR:
+      synonyms:
+      - "Puerto Rico":
+      - "PRI":
+    QA:
+      synonyms:
+      - "Qatar":
+      - "QAT":
+    RE:
+      synonyms:
+      - "Réunion":
+      - "REU":
+    RO:
+      synonyms:
+      - "Romania":
+      - "ROU":
+    RU:
+      synonyms:
+      - "Russian Federation":
+      - "RUS":
+    RW:
+      synonyms:
+      - "Rwanda":
+      - "RWA":
+    BL:
+      synonyms:
+      - "Saint Barthélemy":
+      - "BLM":
+    SH:
+      synonyms:
+      - "Saint Helena, Ascension and Tristan da Cunha":
+      - "SHN":
+    KN:
+      synonyms:
+      - "Saint Kitts and Nevis":
+      - "KNA":
+    LC:
+      synonyms:
+      - "Saint Lucia":
+      - "LCA":
+    MF:
+      synonyms:
+      - "Saint Martin (French part)":
+      - "MAF":
+    PM:
+      synonyms:
+      - "Saint Pierre and Miquelon":
+      - "SPM":
+    VC:
+      synonyms:
+      - "Saint Vincent and the Grenadines":
+      - "VCT":
+    WS:
+      synonyms:
+      - "Samoa":
+      - "WSM":
+    SM:
+      synonyms:
+      - "San Marino":
+      - "SMR":
+    ST:
+      synonyms:
+      - "Sao Tome and Principe":
+      - "STP":
+    SA:
+      synonyms:
+      - "Saudi Arabia":
+      - "SAU":
+    SN:
+      synonyms:
+      - "Senegal":
+      - "SEN":
+    RS:
+      synonyms:
+      - "Serbia":
+      - "SRB":
+    SC:
+      synonyms:
+      - "Seychelles":
+      - "SYC":
+    SL:
+      synonyms:
+      - "Sierra Leone":
+      - "SLE":
+    SG:
+      synonyms:
+      - "Singapore":
+      - "SGP":
+    SX:
+      synonyms:
+      - "Sint Maarten (Dutch part)":
+      - "SXM":
+    SK:
+      synonyms:
+      - "Slovakia":
+      - "SVK":
+    SI:
+      synonyms:
+      - "Slovenia":
+      - "SVN":
+    SB:
+      synonyms:
+      - "Solomon Islands":
+      - "SLB":
+    SO:
+      synonyms:
+      - "Somalia":
+      - "SOM":
+    ZA:
+      synonyms:
+      - "South Africa":
+      - "ZAF":
+    GS:
+      synonyms:
+      - "South Georgia and the South Sandwich Islands":
+      - "SGS":
+    SS:
+      synonyms:
+      - "South Sudan":
+      - "SSD":
+    ES:
+      synonyms:
+      - "Spain":
+      - "ESP":
+    LK:
+      synonyms:
+      - "Sri Lanka":
+      - "LKA":
+    SD:
+      synonyms:
+      - "Sudan":
+      - "SDN":
+    SR:
+      synonyms:
+      - "Suriname":
+      - "SUR":
+    SJ:
+      synonyms:
+      - "Svalbard and Jan Mayen":
+      - "SJM":
+    SE:
+      synonyms:
+      - "Sweden":
+      - "SWE":
+    CH:
+      synonyms:
+      - "Switzerland":
+      - "CHE":
+    SY:
+      synonyms:
+      - "Syrian Arab Republic":
+      - "SYR":
+    TW:
+      synonyms:
+      - "Taiwan, Province of China":
+      - "TWN":
+    TJ:
+      synonyms:
+      - "Tajikistan":
+      - "TJK":
+    TZ:
+      synonyms:
+      - "Tanzania, United Republic of":
+      - "TZA":
+    TH:
+      synonyms:
+      - "Thailand":
+      - "THA":
+    TL:
+      synonyms:
+      - "Timor-Leste":
+      - "TLS":
+    TG:
+      synonyms:
+      - "Togo":
+      - "TGO":
+    TK:
+      synonyms:
+      - "Tokelau":
+      - "TKL":
+    TO:
+      synonyms:
+      - "Tonga":
+      - "TON":
+    TT:
+      synonyms:
+      - "Trinidad and Tobago":
+      - "TTO":
+    TN:
+      synonyms:
+      - "Tunisia":
+      - "TUN":
+    TR:
+      synonyms:
+      - "Turkey":
+      - "TUR":
+    TM:
+      synonyms:
+      - "Turkmenistan":
+      - "TKM":
+    TC:
+      synonyms:
+      - "Turks and Caicos Islands":
+      - "TCA":
+    TV:
+      synonyms:
+      - "Tuvalu":
+      - "TUV":
+    UG:
+      synonyms:
+      - "Uganda":
+      - "UGA":
+    UA:
+      synonyms:
+      - "Ukraine":
+      - "UKR":
+    AE:
+      synonyms:
+      - "United Arab Emirates":
+      - "ARE":
+    GB:
+      synonyms:
+      - "United Kingdom of Great Britain and Northern Ireland":
+      - "GBR":
+    US:
+      synonyms:
+      - "United States of America":
+      - "USA":
+    UM:
+      synonyms:
+      - "United States Minor Outlying Islands":
+      - "UMI":
+    UY:
+      synonyms:
+      - "Uruguay":
+      - "URY":
+    UZ:
+      synonyms:
+      - "Uzbekistan":
+      - "UZB":
+    VU:
+      synonyms:
+      - "Vanuatu":
+      - "VUT":
+    VE:
+      synonyms:
+      - "Venezuela (Bolivarian Republic of)":
+      - "VEN":
+    VN:
+      synonyms:
+      - "Viet Nam":
+      - "VNM":
+    VG:
+      synonyms:
+      - "Virgin Islands (British)":
+      - "VGB":
+    VI:
+      synonyms:
+      - "Virgin Islands (U.S.)":
+      - "VIR":
+    WF:
+      synonyms:
+      - "Wallis and Futuna":
+      - "WLF":
+    EH:
+      synonyms:
+      - "Western Sahara":
+      - "ESH":
+    YE:
+      synonyms:
+      - "Yemen":
+      - "YEM":
+    ZM:
+      synonyms:
+      - "Zambia":
+      - "ZMB":
+    ZW:
+      synonyms:
+      - "Zimbabwe":
+      - "ZWE":
+matchType: EXACT_MATCH
