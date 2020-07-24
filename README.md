@@ -26,9 +26,13 @@ gactions push
 
 ## Contents
 
-| Type                              | Description                                                |
-| --------------------------------- | ---------------------------------------------------------- |
-| [Languages](types/Languages.yaml) | All languages supported by AoG with language code as a key |
+| Type                                        | Description                                                | Source                                                                                 |
+| ------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [Yes/No](builder/types/YesNo.yaml)          | Yes / No type                                              |
+| [Languages](builder/types/Languages.yaml)   | All languages supported by AoG with language code as a key | [AoG Documentation](https://developers.google.com/assistant/console/languages-locales) |
+| [Currencies](builder/types/Currencies.yaml) | Currencies with currency code as a key                     | [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)                                     |
+| [URL](builder/types/URL.yaml)               | Regex type that matches URL                                |
+| [Color](builder/types/Color.yaml)           | Color type with color names and HEX code as a key          | [color-names](https://github.com/meodai/color-names)                                   |
 
 ## Contributing
 

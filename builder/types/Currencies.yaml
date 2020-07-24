@@ -1,0 +1,546 @@
+# Version 1
+# Original source: https://en.wikipedia.org/wiki/ISO_4217
+# Type source: https://github.com/DenisVCode/aog-community-types
+
+synonym: 
+  entities:
+    AFN:
+      synonyms:
+      - "Afghani":
+    EUR:
+      synonyms:
+      - "Euro":
+    ALL:
+      synonyms:
+      - "Lek":
+    DZD:
+      synonyms:
+      - "Algerian Dinar":
+    USD:
+      synonyms:
+      - "US Dollar":
+    AOA:
+      synonyms:
+      - "Kwanza":
+    XCD:
+      synonyms:
+      - "East Caribbean Dollar":
+    ARS:
+      synonyms:
+      - "Argentine Peso":
+    AMD:
+      synonyms:
+      - "Armenian Dram":
+    AWG:
+      synonyms:
+      - "Aruban Florin":
+    AUD:
+      synonyms:
+      - "Australian Dollar":
+    AZN:
+      synonyms:
+      - "Azerbaijanian Manat":
+    BSD:
+      synonyms:
+      - "Bahamian Dollar":
+    BHD:
+      synonyms:
+      - "Bahraini Dinar":
+    BDT:
+      synonyms:
+      - "Taka":
+    BBD:
+      synonyms:
+      - "Barbados Dollar":
+    BYR:
+      synonyms:
+      - "Belarussian Ruble":
+    BZD:
+      synonyms:
+      - "Belize Dollar":
+    XOF:
+      synonyms:
+      - "CFA Franc BCEAO":
+    BMD:
+      synonyms:
+      - "Bermudian Dollar":
+    BTN:
+      synonyms:
+      - "Ngultrum":
+    INR:
+      synonyms:
+      - "Indian Rupee":
+    BOB:
+      synonyms:
+      - "Boliviano":
+    BOV:
+      synonyms:
+      - "Mvdol":
+    BAM:
+      synonyms:
+      - "Convertible Mark":
+    BWP:
+      synonyms:
+      - "Pula":
+    NOK:
+      synonyms:
+      - "Norwegian Krone":
+    BRL:
+      synonyms:
+      - "Brazilian Real":
+    BND:
+      synonyms:
+      - "Brunei Dollar":
+    BGN:
+      synonyms:
+      - "Bulgarian Lev":
+    BIF:
+      synonyms:
+      - "Burundi Franc":
+    KHR:
+      synonyms:
+      - "Riel":
+    XAF:
+      synonyms:
+      - "CFA Franc BEAC":
+    CAD:
+      synonyms:
+      - "Canadian Dollar":
+    CVE:
+      synonyms:
+      - "Cabo Verde Escudo":
+    KYD:
+      synonyms:
+      - "Cayman Islands Dollar":
+    CLF:
+      synonyms:
+      - "Unidad de Fomento":
+    CLP:
+      synonyms:
+      - "Chilean Peso":
+    CNY:
+      synonyms:
+      - "Yuan Renminbi":
+    COP:
+      synonyms:
+      - "Colombian Peso":
+    COU:
+      synonyms:
+      - "Unidad de Valor Real":
+    KMF:
+      synonyms:
+      - "Comoro Franc":
+    CDF:
+      synonyms:
+      - "Congolese Franc":
+    NZD:
+      synonyms:
+      - "New Zealand Dollar":
+    CRC:
+      synonyms:
+      - "Costa Rican Colon":
+    HRK:
+      synonyms:
+      - "Croatian Kuna":
+    CUC:
+      synonyms:
+      - "Peso Convertible":
+    CUP:
+      synonyms:
+      - "Cuban Peso":
+    ANG:
+      synonyms:
+      - "Netherlands Antillean Guilder":
+    CZK:
+      synonyms:
+      - "Czech Koruna":
+    DKK:
+      synonyms:
+      - "Danish Krone":
+    DJF:
+      synonyms:
+      - "Djibouti Franc":
+    DOP:
+      synonyms:
+      - "Dominican Peso":
+    EGP:
+      synonyms:
+      - "Egyptian Pound":
+    SVC:
+      synonyms:
+      - "El Salvador Colon":
+    ERN:
+      synonyms:
+      - "Nakfa":
+    ETB:
+      synonyms:
+      - "Ethiopian Birr":
+    FKP:
+      synonyms:
+      - "Falkland Islands Pound":
+    FJD:
+      synonyms:
+      - "Fiji Dollar":
+    XPF:
+      synonyms:
+      - "CFP Franc":
+    GMD:
+      synonyms:
+      - "Dalasi":
+    GEL:
+      synonyms:
+      - "Lari":
+    GHS:
+      synonyms:
+      - "Ghana Cedi":
+    GIP:
+      synonyms:
+      - "Gibraltar Pound":
+    GTQ:
+      synonyms:
+      - "Quetzal":
+    GBP:
+      synonyms:
+      - "Pound Sterling":
+    GNF:
+      synonyms:
+      - "Guinea Franc":
+    GYD:
+      synonyms:
+      - "Guyana Dollar":
+    HTG:
+      synonyms:
+      - "Gourde":
+    HNL:
+      synonyms:
+      - "Lempira":
+    HKD:
+      synonyms:
+      - "Hong Kong Dollar":
+    HUF:
+      synonyms:
+      - "Forint":
+    ISK:
+      synonyms:
+      - "Iceland Krona":
+    IDR:
+      synonyms:
+      - "Rupiah":
+    XDR:
+      synonyms:
+      - "SDR (Special Drawing Right)":
+    IRR:
+      synonyms:
+      - "Iranian Rial":
+    IQD:
+      synonyms:
+      - "Iraqi Dinar":
+    ILS:
+      synonyms:
+      - "New Israeli Sheqel":
+    JMD:
+      synonyms:
+      - "Jamaican Dollar":
+    JPY:
+      synonyms:
+      - "Yen":
+    JOD:
+      synonyms:
+      - "Jordanian Dinar":
+    KZT:
+      synonyms:
+      - "Tenge":
+    KES:
+      synonyms:
+      - "Kenyan Shilling":
+    KPW:
+      synonyms:
+      - "North Korean Won":
+    KRW:
+      synonyms:
+      - "Won":
+    KWD:
+      synonyms:
+      - "Kuwaiti Dinar":
+    KGS:
+      synonyms:
+      - "Som":
+    LAK:
+      synonyms:
+      - "Kip":
+    LBP:
+      synonyms:
+      - "Lebanese Pound":
+    LSL:
+      synonyms:
+      - "Loti":
+    ZAR:
+      synonyms:
+      - "Rand":
+    LRD:
+      synonyms:
+      - "Liberian Dollar":
+    LYD:
+      synonyms:
+      - "Libyan Dinar":
+    CHF:
+      synonyms:
+      - "Swiss Franc":
+    MOP:
+      synonyms:
+      - "Pataca":
+    MKD:
+      synonyms:
+      - "Denar":
+    MGA:
+      synonyms:
+      - "Malagasy Ariary":
+    MWK:
+      synonyms:
+      - "Kwacha":
+    MYR:
+      synonyms:
+      - "Malaysian Ringgit":
+    MVR:
+      synonyms:
+      - "Rufiyaa":
+    MRO:
+      synonyms:
+      - "Ouguiya":
+    MUR:
+      synonyms:
+      - "Mauritius Rupee":
+    XUA:
+      synonyms:
+      - "ADB Unit of Account":
+    MXN:
+      synonyms:
+      - "Mexican Peso":
+    MXV:
+      synonyms:
+      - "Mexican Unidad de Inversion (UDI)":
+    MDL:
+      synonyms:
+      - "Moldovan Leu":
+    MNT:
+      synonyms:
+      - "Tugrik":
+    MAD:
+      synonyms:
+      - "Moroccan Dirham":
+    MZN:
+      synonyms:
+      - "Mozambique Metical":
+    MMK:
+      synonyms:
+      - "Kyat":
+    NAD:
+      synonyms:
+      - "Namibia Dollar":
+    NPR:
+      synonyms:
+      - "Nepalese Rupee":
+    NIO:
+      synonyms:
+      - "Cordoba Oro":
+    NGN:
+      synonyms:
+      - "Naira":
+    OMR:
+      synonyms:
+      - "Rial Omani":
+    PKR:
+      synonyms:
+      - "Pakistan Rupee":
+    :
+      synonyms:
+      - "No universal currency":
+    PAB:
+      synonyms:
+      - "Balboa":
+    PGK:
+      synonyms:
+      - "Kina":
+    PYG:
+      synonyms:
+      - "Guarani":
+    PEN:
+      synonyms:
+      - "Nuevo Sol":
+    PHP:
+      synonyms:
+      - "Philippine Peso":
+    PLN:
+      synonyms:
+      - "Zloty":
+    QAR:
+      synonyms:
+      - "Qatari Rial":
+    RON:
+      synonyms:
+      - "New Romanian Leu":
+    RUB:
+      synonyms:
+      - "Russian Ruble":
+    RWF:
+      synonyms:
+      - "Rwanda Franc":
+    SHP:
+      synonyms:
+      - "Saint Helena Pound":
+    WST:
+      synonyms:
+      - "Tala":
+    STD:
+      synonyms:
+      - "Dobra":
+    SAR:
+      synonyms:
+      - "Saudi Riyal":
+    RSD:
+      synonyms:
+      - "Serbian Dinar":
+    SCR:
+      synonyms:
+      - "Seychelles Rupee":
+    SLL:
+      synonyms:
+      - "Leone":
+    SGD:
+      synonyms:
+      - "Singapore Dollar":
+    XSU:
+      synonyms:
+      - "Sucre":
+    SBD:
+      synonyms:
+      - "Solomon Islands Dollar":
+    SOS:
+      synonyms:
+      - "Somali Shilling":
+    SSP:
+      synonyms:
+      - "South Sudanese Pound":
+    LKR:
+      synonyms:
+      - "Sri Lanka Rupee":
+    SDG:
+      synonyms:
+      - "Sudanese Pound":
+    SRD:
+      synonyms:
+      - "Surinam Dollar":
+    SZL:
+      synonyms:
+      - "Lilangeni":
+    SEK:
+      synonyms:
+      - "Swedish Krona":
+    CHE:
+      synonyms:
+      - "WIR Euro":
+    CHW:
+      synonyms:
+      - "WIR Franc":
+    SYP:
+      synonyms:
+      - "Syrian Pound":
+    TWD:
+      synonyms:
+      - "New Taiwan Dollar":
+    TJS:
+      synonyms:
+      - "Somoni":
+    TZS:
+      synonyms:
+      - "Tanzanian Shilling":
+    THB:
+      synonyms:
+      - "Baht":
+    TOP:
+      synonyms:
+      - "Pa’anga":
+    TTD:
+      synonyms:
+      - "Trinidad and Tobago Dollar":
+    TND:
+      synonyms:
+      - "Tunisian Dinar":
+    TRY:
+      synonyms:
+      - "Turkish Lira":
+    TMT:
+      synonyms:
+      - "Turkmenistan New Manat":
+    UGX:
+      synonyms:
+      - "Uganda Shilling":
+    UAH:
+      synonyms:
+      - "Hryvnia":
+    AED:
+      synonyms:
+      - "UAE Dirham":
+    USN:
+      synonyms:
+      - "US Dollar (Next day)":
+    UYI:
+      synonyms:
+      - "Uruguay Peso en Unidades Indexadas (URUIURUI)":
+    UYU:
+      synonyms:
+      - "Peso Uruguayo":
+    UZS:
+      synonyms:
+      - "Uzbekistan Sum":
+    VUV:
+      synonyms:
+      - "Vatu":
+    VEF:
+      synonyms:
+      - "Bolivar":
+    VND:
+      synonyms:
+      - "Dong":
+    YER:
+      synonyms:
+      - "Yemeni Rial":
+    ZMW:
+      synonyms:
+      - "Zambian Kwacha":
+    ZWL:
+      synonyms:
+      - "Zimbabwe Dollar":
+    XBA:
+      synonyms:
+      - "Bond Markets Unit European Composite Unit (EURCO)":
+    XBB:
+      synonyms:
+      - "Bond Markets Unit European Monetary Unit (E.M.U.-6)":
+    XBC:
+      synonyms:
+      - "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)":
+    XBD:
+      synonyms:
+      - "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)":
+    XTS:
+      synonyms:
+      - "Codes specifically reserved for testing purposes":
+    XXX:
+      synonyms:
+      - "The codes assigned for transactions where no currency is involved":
+    XAU:
+      synonyms:
+      - "Gold":
+    XPD:
+      synonyms:
+      - "Palladium":
+    XPT:
+      synonyms:
+      - "Platinum":
+    XAG:
+      synonyms:
+      - "Silver":
+matchType: EXACT_MATCH
+
+

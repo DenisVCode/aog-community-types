@@ -1,0 +1,36 @@
+# Version 1
+# Type source: https://github.com/DenisVCode/aog-community-types
+
+synonym:
+  entities:
+    "No":
+      synonyms:
+      - "No"
+      - Nope
+      - Nay
+      - "N"
+      - Not that
+      - Not
+      - Nah
+      - I don't agree
+      - I disagree
+      - No I don't
+    "Yes":
+      synonyms:
+      - "Yes"
+      - Agreed
+      - Yes I agree
+      - Confirm
+      - Yes I get it
+      - Understandable
+      - Okay
+      - Yeah
+      - "y"
+      - Of course
+      - I understand
+      - Affirmative
+      - Yes I understand
+      - For sure
+      - Sure
+      - Oh yes
+  matchType: EXACT_MATCH
