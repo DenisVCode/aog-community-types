@@ -16,7 +16,11 @@ gactions pull --project-id {project-id}
 
 This downloaded your complete Actions on Google project.
 
-Copy the Type .yaml file into `custom/types` folder.
+_For Types:_ \
+Copy the Type .yaml file into `custom/types` folder. 
+
+_For Intents:_ \
+Copy the Intent .yaml file into `custom/intents` folder.
 
 Run following command to push your updates to the Action!
 
@@ -25,6 +29,8 @@ gactions push
 ```
 
 ## Contents
+
+### Types
 
 | Type                                        | Description                                                | Source                                                                                 |
 | ------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------- |
@@ -38,6 +44,15 @@ gactions push
 | [US Cities](builder/custom/types/Cities_US.yaml)           | US Cities with City\|Country as a key          | [Simplemaps.com](https://simplemaps.com/data/world-cities)                                   |
 | [Capital Cities](builder/custom/types/Cities_US.yaml)           | World Capital Cities with City\|Country as a key          | [Simplemaps.com](https://simplemaps.com/data/world-cities)                                   |
 | [Major Cities](builder/custom/types/Cities_US.yaml)           | Major World Cities with population > 500 000, City\|Country as a key          | [Simplemaps.com](https://simplemaps.com/data/world-cities)                                   |
+
+### Intents
+| Intent                                        | Description                                                | Language                                                                                 |
+| ------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [Yes](builder/custom/intents/Yes.yaml)   | - |  |
+| [No](builder/custom/types/No.yaml)   | - |  |
+| [Repeat](builder/custom/types/Repeat.yaml)   | - |  |
+| [Help](builder/custom/types/Help.yaml)   | - |  |
+| [Slow down](builder/custom/types/Speak_Slower.yaml)   |  -|  |
 
 ## Contributing
 

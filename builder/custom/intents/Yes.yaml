@@ -1,0 +1,18 @@
+trainingPhrases:
+- ($yesNo1 'Yes' auto=true) please continue
+- ($yesNo1 'Yes' auto=true) please
+- ($yesNo1 'Yes' auto=true), continue
+- Agreed
+- Yes I agree
+- Confirm
+- Yes I get it
+- Understandable
+- Okay
+- yeah
+- "y"
+- Of course
+- I understand
+- Yes I understand
+- For sure
+- Sure
+- "Yes"
