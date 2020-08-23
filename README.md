@@ -48,11 +48,11 @@ gactions push
 ### Intents
 | Intent                                        | Description                                                | Language                                                                                 |
 | ------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [Yes](builder/custom/intents/Yes.yaml)   | - |  |
-| [No](builder/custom/types/No.yaml)   | - |  |
-| [Repeat](builder/custom/types/Repeat.yaml)   | - |  |
-| [Help](builder/custom/types/Help.yaml)   | - |  |
-| [Slow down](builder/custom/types/Speak_Slower.yaml)   |  -|  |
+| [Yes](builder/custom/intents/Yes.yaml)   | - | en-US |
+| [No](builder/custom/types/No.yaml)   | - | en-US |
+| [Repeat](builder/custom/types/Repeat.yaml)   | - | en-US |
+| [Help](builder/custom/types/Help.yaml)   | - | en-US |
+| [Slow down](builder/custom/types/Speak_Slower.yaml)   |  -| en-US |
 
 ## Contributing
 
